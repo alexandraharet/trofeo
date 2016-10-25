@@ -1,0 +1,15 @@
+ALL ARE CASE-SENSITIVE
+
+è = &egrave;
+“ = "
+” = "
+ì = &igrave
+’ = '
+ù  = &ugrave
+à = &agrave
+ò = &ograve
+á = &aacute
+é = &eacute
+í = &iacute
+ó = &oacute
+° = &deg
