@@ -7,7 +7,7 @@ Website was built as a first project using Bootstrap 3. It also incorporates a c
 Website was built 'desktop first', which prompted some issues with offsets in triggering scroll events (looked ok on desktop, not on on mobile).
 
 JavaScript & jQuery were further used to:
-- change the alignment and display of the timeline on desktop / small devices; 
+- change the alignment and display of the timeline on desktop / small devices;
 - add overlays to some boxes & images (see Interviste pages, the top profile pics, as well as rassegna stampa, on click)
 - to dynamically add place numbers on the table of winners (Albo D'Oro page).
 
