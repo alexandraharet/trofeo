@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <title>Trofeo "Francesco Verduci" Interviste</title>
-  <base href="./">
+  <base href="./index.php">
 
   <?php require_once("header.php"); ?>
 
 </head>
 
-<body>
+<body class=".addScrollSmooth2">
 
   <?php require_once("nav.php"); ?>
 

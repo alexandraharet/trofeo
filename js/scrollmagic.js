@@ -7,7 +7,7 @@ $(function() {
   var tween = TweenMax.to('.boxLatestNews', 0.5, {scale: 1});
   var newsScene = new ScrollMagic.Scene({
     triggerElement: '#newsScene',
-    offset: -50 /* offset the trigger 150px below #scene's top */
+    offset: -50  /* offset the trigger 150px below #scene's top */
   });
   newsScene.setTween(tween);
   newsScene.addTo(scrollMagicController);

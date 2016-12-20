@@ -1,7 +1,7 @@
 $(document).ready(function(){
   var scrollSpy = function(){
     // Add scrollspy to <body>
-    $('body').scrollspy({target: ".navbar", offset: 70}); //works with: 70
+    $('body').scrollspy({target: ".navbar"}); //works with: 70
   }
 
   $(document).on('click','.navbar-collapse.in',function(e) {
@@ -25,9 +25,8 @@ $(document).ready(function(){
         // modified function to first jump to index.php and then jump to # anchor
 
         $('html, body').animate({
-          scrollTop: $(hash).offset().top - 60 // works with: -60
+          scrollTop: $(hash).offset().top // works with: -60 OR - 80
         }, 800, function(){
-
           // Add hash (#) to URL when done scrolling (default click behavior)
           window.location.hash = hash;
         });
@@ -134,6 +133,7 @@ var loadYoutubeThumbnails = function() {
 
   if ($('.addScrollSpy').length > 0) scrollSpy();
   if ($('.addScrollSmooth').length > 0) scrollSmooth();
+  if ($('.addScrollSmooth2').length > 0) scrollSmooth2();
   if ($(".circleThumbnail").length > 0 ) overlay(".circleThumbnail", "100%", "hover");
   if ($(".interviste").length > 0 ) overlay(".interviste", "100%", "hover");
   if ($(".boxRassegna").length > 0 ) overlay(".boxRassegna", "0%", "hover");

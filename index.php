@@ -62,8 +62,8 @@
 			<div class="col-xs-12 top-bottom-margin" style="padding-bottom: 9em;">
 				<div class="container">
 					<div class="row">
-						<div class="col-xs-12 green">
-							<h1 id="notizie">Ultime notizie</h1>
+						<div class="col-xs-12 green" >
+							<h1 id="notizie" class="hashLinkPadding">Ultime notizie</h1>
 						</div>
 					</div>
 					<div class="row" id="newsScene">
@@ -103,14 +103,14 @@
 				<div class="container">
 					<div class="row top-bottom-margin">
 						<div class="col-xs-12">
-							<img src="images/verduci-round.png" class="verduci" id="iltrofeo"/>
+							<img src="images/verduci-round.png" class="verduci"  id="iltrofeo" />
 							<p class="smallerquote" >Il Trofeo di Americana Gara Internazionale viene dedicato a Francesco Verduci, in quanto, poco prima di morire, aveva espresso agli amici della Fidal il desiderio di voler organizzare tale manifestazione a Motta. Dopo la sua scomparsa, grazie a coloro che non hanno dimenticato, &egrave stato possibile realizzare questo suo desiderio.</p>
 							<div class="text-center"><a href="trofeo.php"><button type="button" class="btn btn-transparent">Leggi di pi&ugrave</button></a></div>
 						</div>
 					</div>
 					<div class="row top-bottom-margin">
-						<div class="col-xs-12 text-center" id="fotogallery">
-							<h1 id="fotogallery">Fotogallery</h1>
+						<div class="col-xs-12 text-center">
+							<h1 id="fotogallery" class="hashLinkPadding">Fotogallery</h1>
 						</div>
 					</div>
 					<div class="row top-bottom-padding" id="slidedown">
@@ -209,7 +209,7 @@
 				<div class="container">
 					<div class="row top-bottom-margin">
 						<div class="col-xs-12">
-							<h1 id="percorso">Descrizione della gara</h1>
+							<h1 id="percorso" class="hashLinkPadding">Descrizione della gara</h1>
 							<p>L'Americana &egrave una gara affascinante nella quale i podisti partono tutti insieme e devono gareggiare ad andatura limitata sul percorso stradale cittadino nel centro storico di Motta. Ad ogni giro, nel tratto conclusivo viene "lanciata" una volata e gli atleti devono aumentare l'andatura per evitare l'eliminazione, ad eccezione dell'ultimo giro quando i podisti rimasti in gara disputano un rush finale di 300 metri per aggiudicarsi la vittoria. La gara &egrave riservata ad atleti di grande prestigio, italiani e stranieri, appartenenti alle categorie assoluti e master.</p>
 						</div>
 						<div class="col-md-12 hidden-xs hidden-sm text-center">
@@ -232,7 +232,7 @@
 				<div class="container">
 					<div class="row top-bottom-margin" id="fotogallery">
 						<div class="col-xs-12">
-							<h1 id="rassegna">Rassegna stampa</h1>
+							<h1 id="rassegna" class="hashLinkPadding">Rassegna stampa</h1>
 						</div>
 					</div>
 					<div class="row top-bottom-padding" id="slidedown">
