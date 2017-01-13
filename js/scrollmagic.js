@@ -35,7 +35,7 @@ $(function() {
       }
 
 if ($(".timelineEvent").length > 0 ) animateTimeline();
-if ($("#rassegna").length > 0 ) animateRassegne();
+if ($("#rassegna").length > 0 && $(window).width() > 768 ) animateRassegne();
 if ($("#newsScene").length > 0 ) animateLatestNews();
 
 });

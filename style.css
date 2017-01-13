@@ -606,6 +606,25 @@ img.bronze {
   height: auto !important;
 }
 
+.mobile-nav {
+	display: inline;
+	text-align: center;
+}
+
+.more-menu {
+	display: none;
+	text-align: right;
+	padding-right: 10px;
+}
+
+.display-element {
+	display: block;
+}
+
+.hide-element {
+	display: none !important;
+}
+
 .hideOverflow {
 	overflow: hidden;
 }

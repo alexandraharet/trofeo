@@ -3,26 +3,42 @@ echo(
 '
 <nav class="navbar navbar-default navbar-fixed-top" id="navbar">
     <div class="container-fluid">
-
-                <div class="navbar-header" id="navbar-header">
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#topnav" id="mobnavbutton">
+                <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" id="mobnavbutton">
+                            <span class="sr-only">Toggle navigation</span>
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
+                        <span class="navbar-brand visible-xs-inline-block" id="logo-xs" style="padding: 0 0 0 10px;">
+                            <a href="#home"><img src="images/logo.png" class="logo" alt="Trofeo &#34;Francesco Verduci&#34; LOGO"></a>
+                        </span>
+                    </div>
+                    <div class="more-menu">
+                    <ul>
+                        <li><a href="trofeo.php">Storia del trofeo</a></li>
+                        <li><a href="verduci.php">Francesco Verduci</a></li>
+                        <li><a href="interviste.php">Interviste</a></li>
+                        <li><a href="videogallery.php">Videogallery</a></li>
+                        <li><a href="mission.php">Un progetto benefico</a></li>
+                        <li><a href="albo-d-oro.php">Albo d&#39;oro</a></li>
+                        <li><a href="arhiva-rassegna-stampa.php">Arhiva rassegna stampa</a></li>
+                    </ul>
                     </div>
                     <div class="collapse navbar-collapse" id="topnav">
                         <ul class="nav navbar-nav">
                             <li class="navbar-header" id="navbar-header">
-                            <span class="navbar-brand" style="padding: 0 10px 0 0;">
+
+                            <span class="navbar-brand" style="padding: 0 10px 0 0;" id="logo-sm">
                                 <a href="#home"><img src="images/logo.png" class="logo" alt="Trofeo &#34;Francesco Verduci&#34; LOGO"></a>
                             </span>
+
                             </li>
-                            <li class="hide-mobile"><a href="#notizie">Ultime notizie</a></li>
-                            <li class="hide-mobile"><a href="#iltrofeo">Il trofeo</a></li>
-                            <li class="hide-mobile"><a href="#fotogallery">Fotogallery</a></li>
-                            <li class="hide-mobile"><a href="#percorso">Percorso</a></li>
-                            <li class="hide-mobile"><a href="#rassegna">Rassegna stampa</a></li>
+                            <li class="hidden-xs"><a href="#notizie">Ultime notizie</a></li>
+                            <li class="hidden-xs"><a href="#iltrofeo">Il trofeo</a></li>
+                            <li class="hidden-xs"><a href="#fotogallery">Fotogallery</a></li>
+                            <li class="hidden-xs"><a href="#percorso">Percorso</a></li>
+                            <li class="hidden-xs"><a href="#rassegna">Rassegna stampa</a></li>
                             <li class="dropdown" style="margin-top: auto; margin-bottom: auto;">
                                 <a class="dropdown-toggle" data-toggle="dropdown" href="#">
                                 <span class="glyphicon glyphicon-plus visible-sm">

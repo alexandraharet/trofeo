@@ -26,21 +26,21 @@
 		<div class="carousel-inner" role="listbox">
 			<div class="item active">
 				<img src="images/hero-img-1.jpg">
-				<div class="carousel-caption">
+				<div class="carousel-caption hidden-xs">
 					<h3 class="blackbox">Americana Gara Internazionale - Corsa su strada ad eliminazione</h3>
 				</div>
 			</div>
 
 			<div class="item">
 				<img src="images/hero-img-2.jpg">
-				<div class="carousel-caption">
+				<div class="carousel-caption hidden-xs">
 					<h3 class="blackbox">Similar to the 'Miss and out' cycling competition type, the Verduci Trofeo is an elimination running race where the last runner on every lap is "pulled" from the race.</h3>
 				</div>
 			</div>
 
 			<div class="item">
 				<img src="images/hero-img-3.jpg">
-				<div class="carousel-caption">
+				<div class="carousel-caption hidden-xs">
 					<h3 class="blackbox">The race is a nigh event that takes place each year in Motta San Giovanni, Calabria, Italy in August.</h3>
 				</div>
 			</div>
@@ -69,7 +69,6 @@
 					<div class="row is-table-row" id="newsScene">
 						<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
 						<div class="col-sm-4 boxLatestNews">
-							<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
 								<div class="imgContainer">
 								<img src="images/news1.jpg" class="full-width"/>
 							</div>
