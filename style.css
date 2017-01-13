@@ -63,7 +63,6 @@ a:hover {
 	overflow: hidden;
 }
 
-
 /* Stripes and boxes */
 
 .blackbox {
@@ -102,12 +101,12 @@ a:hover {
 	}
 
 .boxLatestNews {
-	overflow: hidden;
 	padding: 0 0 10px 0;
 	transform: scale(0.75, 0.75);
 	border-radius: 0 0 10px 10px;
 	background-color: #fff;
 	box-shadow: 0 0 0 1px #bbb;
+	height: 100%;
 	}
 
 .boxLatestNews img {
@@ -116,6 +115,11 @@ a:hover {
 	-moz-transition: all 0.3s;
 	transition: all 0.3s;
 	}
+
+.imgContainer {
+	overflow: hidden;
+	height: auto;
+}
 
 img.person {
 	display: block;
@@ -133,8 +137,6 @@ img.person {
 	-ms-border-radius: 100%;
 	-o-border-radius: 100%;
 }
-
-
 
 .stripe {
 	padding-top: 20px;
@@ -159,6 +161,21 @@ img.person {
 	font-style: italic;
 	}
 
+
+
+@media only screen and (min-width : 992px) {
+	.is-table-row {
+		display: table;
+		border-spacing: 20px;
+		}
+	.is-table-row [class*="col-sm-"] {
+        float: none;
+        display: table-cell;
+        vertical-align: top;
+    	}
+	}
+
+
 /* Extra paddings and margins */
 
 .top-bottom-padding {
@@ -180,7 +197,6 @@ img.person {
 	}
 
 	.hashLinkPadding {
-		margin-top: -70px;
 		padding-top: 70px;
 	}
 
