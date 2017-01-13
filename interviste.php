@@ -25,42 +25,38 @@
           <div class="row top90 bottom90">
             <div class="col-sm-2"></div>
             <div class="col-sm-2 col-xs-6 interviste" >
-              <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
               <div class="img">
                 <img src="images/ivita.jpg" class="img-round"/>
-                <div class="overlay">
+                <div class="overlay hidden-xs">
                   <a href="interviste.php#ivita" class="person noopacity">
-                    <strong>Ignazio Vita</strong><br>Presidente Comitato<br>Regionale<br>Calabro Fidal</a>
+                    <p><strong>Ignazio Vita</strong><br>Presidente Comitato<br>Regionale<br>Calabro Fidal</p></a>
                   </div>
                 </div>
               </div>
               <div class="col-sm-2 col-xs-6 interviste" >
-                <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
                 <div class="img">
                   <img src="images/ivita.jpg" class="img-round"/>
-                  <div class="overlay">
+                  <div class="overlay hidden-xs">
                     <a href="interviste.php#gtetto" class="person">
-                      <strong>Giulio Tetto</strong><br>Fiduciario Regionale<br>Gruppo<br>Giudici di Gara</a>
+                      <p><strong>Giulio Tetto</strong><br>Fiduciario Regionale<br>Gruppo<br>Giudici di Gara</p></a>
                     </div>
                   </div>
                 </div>
                 <div class="col-sm-2 col-xs-6 interviste" >
-                  <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
                   <div class="img">
                     <img src="images/atucci.jpg" class="img-round"/>
-                    <div class="overlay">
+                    <div class="overlay hidden-xs">
                       <a href="interviste.php#atucci" class="person">
-                        <strong>Attilio Tucci</strong><br>Assessore Provinciale<br>allo Sport</a>
+                        <p><strong>Attilio Tucci</strong><br>Assessore Provinciale<br>allo Sport</p></a>
                       </div>
                     </div>
                   </div>
                   <div class="col-sm-2 col-xs-6 interviste" >
-                    <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
                     <div class="img">
                       <img src="images/plagana.jpg" class="img-round"/>
-                      <div class="overlay">
+                      <div class="overlay hidden-xs">
                         <a href="interviste.php#plagana" class="person">
-                          <strong>Paolo Lagan&agrave</strong><br>Sindaco di<br>Motta San Giovanni</a>
+                          <p><strong>Paolo Lagan&agrave</strong><br>Sindaco di<br>Motta San Giovanni</p></a>
                         </div>
                       </div>
                     </div>

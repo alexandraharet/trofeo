@@ -115,16 +115,26 @@ $(document).ready(function(){
 var changeAlbumTitlesOnXs = function() {
   $(".circleThumbnail").each(function() {
     var url = $(this).find("a").attr("href");
-    $(this).children().wrap('<a href="' + url + '" target="_blank" class="hidden-sm-up">');
+    $(this).children().wrapAll('<a href="' + url + '" target="_blank" class="hidden-sm-up">');
   })
 }
 
-
-changeAlbumTitlesOnXs();
-
 // end
 
+// change display of person names on Interviste.php for viewport xs
 
+var changePersonNameDisplay = function() {
+  $(".interviste .img").each(function() {
+    var personInfo = $(this).find("a").html();
+    var url = $(this).find("a").attr("href");
+    console.log(url);
+    $(this).append('<div class="hidden-lg hidden-md hidden-sm person-under">'+ personInfo + '</div>').children().wrapAll('<a href="' + url + '">');
+  })
+}
+
+changePersonNameDisplay();
+
+// end
 
 
 // change manu layout for xs viewport
@@ -200,8 +210,14 @@ var loadYoutubeThumbnails = function() {
   if ($('.addScrollSpy').length > 0) scrollSpy();
   if ($('.addScrollSmooth').length > 0) scrollSmooth();
   if ($('.addScrollSmooth2').length > 0) scrollSmooth2();
-  if ($(".circleThumbnail").length > 0 ) overlay(".circleThumbnail", "100%", "hover");
-  if ($(".interviste").length > 0 ) overlay(".interviste", "100%", "hover");
+  if ($(".circleThumbnail").length > 0 ) {
+    overlay(".circleThumbnail", "100%", "hover");
+    changeAlbumTitlesOnXs();
+    }
+  if ($(".interviste").length > 0 ) {
+    overlay(".interviste", "100%", "hover");
+
+    }
   if ($(".boxRassegna").length > 0 ) overlay(".boxRassegna", "0%", "hover");
   if ($("#clasiffications").length > 0 ) addPlaceNumber();
   if ($('.eventContent').length > 0 ) addTimelineArrows();

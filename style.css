@@ -349,7 +349,7 @@ ul.navbar li a {
   -o-transition: all 0.5s;
   transition: opacity 0.5s;
   opacity: 0;
-	margin: auto;
+  margin: auto;
 }
 
 .hover .overlay {
@@ -417,6 +417,17 @@ a.person {
   margin-top: -30px;
   opacity: 1;
 }
+
+.person-under {
+	position: relative;
+	top: -40px;
+	background-color: #fff;
+	text-align: center;
+	color: #333;
+	padding: 10px 0;
+	margin-bottom: -30px;
+}
+
 
 .trophy {
 	display: inline-block;
