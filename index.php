@@ -115,82 +115,83 @@
 					</div>
 					<div class="row top-bottom-padding" id="slidedown">
 								<div class="col-sm-3 col-xs-4 circleThumbnail" >
-									<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
+									<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2016</div>
 									<div class="img">
 										<img src="images/cover-2016.jpg" class="img-thumbnail"/>
-										<div class="overlay">
+										<div class="overlay hidden-xs">
 											<a href="https://goo.gl/photos/72QzerGFkwUQEGCo8" target="_blank" class="albumtitle">2016</a>
 										</div>
 									</div>
+								</a>
 								</div>
 								<div class="col-sm-3 col-xs-4 circleThumbnail" >
-									<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
+									<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2015</div>
 									<div class="img">
 										<img src="images/cover-2015.jpg" class="img-thumbnail"/>
-										<div class="overlay">
+										<div class="overlay hidden-xs">
 											<a href="https://goo.gl/photos/GMRgFzDGuoa243Mt9" target="_blank" class="albumtitle">2015</a>
 										</div>
 									</div>
 								</div>
 								<div class="col-sm-3 col-xs-4 circleThumbnail">
-									<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
+									<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2014</div>
 									<div class="img">
 										<img src="images/cover-2014.jpg" class="img-thumbnail"/>
-										<div class="overlay">
+										<div class="overlay hidden-xs">
 											<a href="https://goo.gl/photos/i5vo2dbsj7djzQxy6" target="_blank" class="albumtitle">2014</a>
 										</div>
 									</div>
 								</div>
 								<div class="col-sm-3 col-xs-4 circleThumbnail">
-									<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
+									<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2013</div>
 									<div class="img">
 										<img src="images/cover-2013.jpg" class="img-thumbnail"/>
-										<div class="overlay">
+										<div class="overlay hidden-xs">
 											<a href="https://goo.gl/photos/4x5LHh25NeU62h4E9" target="_blank" class="albumtitle">2013</a>
 										</div>
 									</div>
 								</div>
 								<div class="col-sm-2 col-xs-4 circleThumbnail">
-									<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
+									<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2012</div>
 									<div class="img">
 										<img src="images/cover-2012.jpg" class="img-thumbnail"/>
-										<div class="overlay">
+										<div class="overlay hidden-xs">
 											<a href="https://goo.gl/photos/W2V2ZHEzjecggPxb7" target="_blank" class="albumtitle">2012</a>
 										</div>
 									</div>
 								</div>
 								<div class="col-sm-2 col-xs-4 circleThumbnail">
-									<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
+									<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2011</div>
 									<div class="img">
 										<img src="images/cover-2011.jpg" class="img-thumbnail"/>
-										<div class="overlay">
+										<div class="overlay hidden-xs">
 											<a href="https://goo.gl/photos/4i2CZEDANQdTZFJP8" target="_blank" class="albumtitle">2011</a>
 										</div>
 									</div>
 								</div>
 								<div class="col-sm-2 col-xs-4 circleThumbnail">
-									<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
+									<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2010</div>
 									<div class="img">
 										<img src="images/cover-2010.jpg" class="img-thumbnail"/>
-										<div class="overlay">
+										<div class="overlay hidden-xs">
 											<a href="https://goo.gl/photos/hsbCTVvbEfzjfdW6A" target="_blank" class="albumtitle">2010</a>
 										</div>
 									</div>
 								</div>
 								<div class="col-sm-2 col-xs-4 circleThumbnail">
-									<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
+									<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2009</div>
 									<div class="img">
 										<img src="images/cover-2009.jpg" class="img-thumbnail"/>
-										<div class="overlay">
+										<div class="overlay hidden-xs">
 											<a href="https://goo.gl/photos/yzRkp2s1SG52TDw16" target="_blank" class="albumtitle">2009</a>
 										</div>
 									</div>
 								</div>
 								<div class="col-sm-2 col-xs-4 circleThumbnail">
-									<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
+									<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2008</div>
 									<div class="img">
 										<img src="images/cover-2008.jpg" class="img-thumbnail"/>
-										<div class="overlay">
+										<div class="overlay hidden-xs">
 											<a href="https://goo.gl/photos/4y5zXhNDR3bW7vMk9" target="_blank" class="albumtitle">2008</a>
 										</div>
 									</div>

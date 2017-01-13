@@ -110,6 +110,23 @@ $(document).ready(function(){
   /* END */
 
 
+// add links and album title to the top on viewport xs
+
+var changeAlbumTitlesOnXs = function() {
+  $(".circleThumbnail").each(function() {
+    var url = $(this).find("a").attr("href");
+    $(this).children().wrap('<a href="' + url + '" target="_blank" class="hidden-sm-up">');
+  })
+}
+
+
+changeAlbumTitlesOnXs();
+
+// end
+
+
+
+
 // change manu layout for xs viewport
 
 
