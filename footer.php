@@ -1,6 +1,11 @@
 <?php
 echo(
 '
+
+<div id="back-top">
+  <a href="#home"><div class="goback" title="Go back to top" alt="back to top button"></div></a>
+</div>
+
 <div class="container-fluid">
     <div class="row blackStripe">
       <div class="col-xs-12">
@@ -45,7 +50,7 @@ echo(
             </div>
             <div class="row top-bottom-margin">
               <div class="col-xs-12">
-                <p style="padding-top: 20px; line-height: normal; font-weight: normal;">Copyright &#169; Trofeo &#34;Francesco Verduci&#34; 2016 - Sito web realizzato da <a href="http://www.alexandraharet.com">Alexandra Haret</p>
+                <p style="padding-top: 20px; line-height: normal; font-weight: normal;">&#169; Copyright Trofeo &#34;Francesco Verduci&#34; <span id="currentyear"></span> - Sito web realizzato da <a href="http://www.alexandraharet.com">Alexandra Haret</p>
               </div>
             </div>
           </div>
