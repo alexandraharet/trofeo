@@ -3,7 +3,6 @@
 <head>
   <title>Trofeo "Francesco Verduci" Albo d'oro</title>
   <base href="./index.php">
-  <link rel="shortcut icon" href="images/favicon-1.ico" type="image/x-icon" />
   <?php require_once("header.php"); ?>
 
 </head>

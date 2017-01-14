@@ -3,7 +3,6 @@
 <head>
     <title>Trofeo "Francesco Verduci" Interviste</title>
     <base href="./index.php">
-
     <?php require_once("header.php"); ?>
 
 </head>

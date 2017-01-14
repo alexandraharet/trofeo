@@ -2,7 +2,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<title>Trofeo "Francesco Verduci, Motta San Giovanni, Calabria, Italia"</title>
-	<link rel="shortcut icon" href="images/favicon-1.ico" type="image/x-icon" />
 	<?php require_once("header.php"); ?>
 
 </head>

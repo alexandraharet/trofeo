@@ -162,20 +162,6 @@ img.person {
 }
 
 
-
-@media only screen and (min-width : 992px) {
-	.is-table-row {
-		display: table;
-		border-spacing: 20px;
-	}
-	.is-table-row [class*="col-sm-"] {
-		float: none;
-		display: table-cell;
-		vertical-align: top;
-	}
-}
-
-
 /* Extra paddings and margins */
 
 .top-bottom-padding {
@@ -306,6 +292,16 @@ img.verduci {
 	}
 	.navbar .navbar-collapse {
 		text-align: center;
+	}
+
+	.is-table-row {
+		display: table;
+		border-spacing: 20px;
+	}
+	.is-table-row [class*="col-sm-"] {
+		float: none;
+		display: table-cell;
+		vertical-align: top;
 	}
 }
 
