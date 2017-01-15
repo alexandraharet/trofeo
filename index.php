@@ -268,7 +268,7 @@
 								<div class="img">
 									<img src="images/rassegna4.jpg" class="img-responsive"/>
 									<div class="overlay">
-										<a href="arhiva-rassegna-stampa.php" class="albumtitle">Consulta l'archivio completo</a>
+										<a href="archivio-rassegna-stampa.php" class="albumtitle">Consulta l'archivio completo</a>
 									</div>
 								</div>
 							</div>
@@ -294,8 +294,6 @@
 				</div>
 			</div>
 		</div>
-
-
 
 		<?php require_once("footer.php"); ?>
 

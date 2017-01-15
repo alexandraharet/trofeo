@@ -22,7 +22,7 @@ echo(
                 <li><a href="videogallery.php">Videogallery</a></li>
                 <li><a href="mission.php">Un progetto benefico</a></li>
                 <li><a href="albo-d-oro.php">Albo d&#39;oro</a></li>
-                <li><a href="arhiva-rassegna-stampa.php">Arhiva rassegna stampa</a></li>
+                <li><a href="archivio-rassegna-stampa.php">Archivio rassegna stampa</a></li>
             </ul>
         </div>
         <div class="collapse navbar-collapse" id="topnav">
@@ -51,7 +51,7 @@ echo(
                             <li><a href="videogallery.php">Videogallery</a></li>
                             <li><a href="mission.php">Un progetto benefico</a></li>
                             <li><a href="albo-d-oro.php">Albo d&#39;oro</a></li>
-                            <li><a href="arhiva-rassegna-stampa.php">Arhiva rassegna stampa</a></li>
+                            <li><a href="archivio-rassegna-stampa.php">Archivio rassegna stampa</a></li>
                         </ul>
                     </li>
                 </ul>

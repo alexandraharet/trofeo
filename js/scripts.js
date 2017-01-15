@@ -104,7 +104,7 @@ var changeAlbumTitlesOnXs = function() {
     $(".circleThumbnail").each(function() {
         var url = $(this).find("a").attr("href");
         $(this).children().wrapAll('<a href="' + url + '" target="_blank" class="hidden-sm-up">');
-    })
+    });
 }
 
 // end
@@ -121,6 +121,17 @@ var changePersonNameDisplay = function() {
 
 // end
 
+// change display of Rassegna Boxes on archivio-rassegna-stampa.php page for xs viewport
+
+ var changeRassegnaDisplayOnXs = function() {
+     $(".img").each(function() {
+         var url = $(this).find("a").attr("href");
+         $(this).children().wrapAll('<a href="' + url + '" target="_blank" class="hidden-sm-up">');
+         var thisRow = $(this).closest(".boxRassegna").find("p").wrap('<a href="' + url + '" target="_blank" class="hidden-sm-up">');
+     });
+ }
+
+// end
 
 // change manu layout for xs viewport
 
@@ -244,12 +255,15 @@ if ($('.addScrollSmooth2').length > 0) scrollSmooth2();
 if ($(".circleThumbnail").length > 0 ) {
     overlay(".circleThumbnail", "100%", "hover");
     changeAlbumTitlesOnXs();
-}
+    }
 if ($(".interviste").length > 0 ) {
     overlay(".interviste", "100%", "hover");
     changePersonNameDisplay();
-}
-if ($(".boxRassegna").length > 0 ) overlay(".boxRassegna", "0%", "hover");
+    }
+if ($(".boxRassegna").length > 0 ) {
+    overlay(".boxRassegna", "0%", "hover");
+    changeRassegnaDisplayOnXs();
+    }
 if ($("#clasiffications").length > 0 ) addPlaceNumber();
 if ($('.eventContent').length > 0 ) addTimelineArrows();
 if ($(".youtubeVideo").length > 0 ) loadYoutubeThumbnails();
