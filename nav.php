@@ -27,7 +27,7 @@ echo(
         </div>
         <div class="collapse navbar-collapse" id="topnav">
             <ul class="nav navbar-nav">
-                <li class="navbar-header" id="navbar-header">
+                <li>
 
                     <span class="navbar-brand" style="padding: 0 10px 0 0;" id="logo-sm">
                         <a href="#home"><img src="images/logo.png" class="logo" alt="Trofeo &#34;Francesco Verduci&#34; LOGO"></a>

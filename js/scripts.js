@@ -1,8 +1,12 @@
 $(document).ready(function(){
     var scrollSpy = function(){
         // Add scrollspy to <body>
-        $('body').scrollspy({target: ".navbar"}); //works with: 70
+        $('body').scrollspy({
+            target: ".navbar",
+            offset: 70
+        }); //works with: 70
     }
+
 
     $(document).on('click','.navbar-collapse.in',function(e) {
         if( $(e.target).is('a') ) {
@@ -25,7 +29,7 @@ $(document).ready(function(){
                 // modified function to first jump to index.php and then jump to # anchor
 
                 $('html, body').animate({
-                    scrollTop: $(hash).offset().top // works with: -60 OR - 80
+                    scrollTop: $(hash).offset().top-65 // works with: -60 OR - 80
                 }, 800, function(){
                     // Add hash (#) to URL when done scrolling (default click behavior)
                     window.location.hash = hash;
@@ -52,6 +56,8 @@ $(myClass).mouseenter(function(){
     $(this).removeClass("hover");
 });
 }
+
+
 
 /* Modify effect for timeline animation on Trofeo.php page */
 

@@ -101,7 +101,8 @@
 						<div class="container">
 							<div class="row top-bottom-margin">
 								<div class="col-xs-12">
-									<img src="images/verduci-round.png" class="verduci"  id="iltrofeo" />
+									<div class="imgContainerVerduci">
+									<img src="images/verduci-round.png" class="verduci"  id="iltrofeo" /></div>
 									<p class="smallerquote" >Il Trofeo di Americana Gara Internazionale viene dedicato a Francesco Verduci, in quanto, poco prima di morire, aveva espresso agli amici della Fidal il desiderio di voler organizzare tale manifestazione a Motta. Dopo la sua scomparsa, grazie a coloro che non hanno dimenticato, &egrave stato possibile realizzare questo suo desiderio.</p>
 									<div class="text-center"><a href="trofeo.php"><button type="button" class="btn btn-transparent">Leggi di pi&ugrave</button></a></div>
 								</div>
