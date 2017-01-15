@@ -155,10 +155,10 @@ img.person {
 }
 
 .boxLatestNews p {
-	margin-right: auto;
-	margin-left: auto;
-	text-align:center;
 	font-style: italic;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
 }
 
 
@@ -460,6 +460,10 @@ img.bronze {
 	padding-bottom: 1em;
 }
 
+.padding-top-40 {
+	padding-top: 40px;
+}
+
 .btn-transparent {
 	background-color: transparent;
 	color: #fff;
@@ -475,6 +479,13 @@ img.bronze {
 
 .btn-transparent:focus {
 	outline: none;
+}
+
+.btn-dark {
+	color: #333;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	border-color: #bbb;
 }
 
 
@@ -646,7 +657,27 @@ img.bronze {
 		margin-bottom: 0;
 	}
 
+	.navbar-fixed-top.hide-nav {
+	  -webkit-transform: translateY(-100%);
+	  transform: translateY(-100%);
+	  transition: all 0.2s ease-in-out;
+	}
+
+	.navbar-fixed-top.show-nav {
+	  -webkit-transform: translateY(0);
+	  transform: translateY(0);
+	  transition: all 0.2s ease-in-out;
+	}
+	.vcenter {
+		padding-top: 0.2em;
+		padding-bottom: 0.2em;
+	}
+
+	.padding-top-40 {
+		padding-top: 0px;
+	}
 }
+
 
 @media (min-width: 769px) {
 	ul.nav li.dropdown:hover > ul.dropdown-menu {

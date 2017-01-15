@@ -12,21 +12,22 @@ echo(
                 <div class="row top-bottom-margin">
                     <div class="col-sm-4">
                         <p class="greenText">Link</p>
-                        <p><a href="#">Coni</a> -
-                            <a href="#">Fidal</a> -
-                            <a href="#">Fidal Calabria</a> -
-                            <a href="#">Motta San Giovanni</a> -
-                            <a href="#">Reggio Calabria</a></p>
+                        <p><a href="http://www.coni.it/" target="_blank">Coni</a> -
+                            <a href="http://www.fidal.it/" target="_blank">Fidal</a> -
+                            <a href="http://calabria.fidal.it/" target="_blank">Fidal Calabria</a> -
+                            <a href="http://www.comunemottasg.it/" target="_blank">Motta San Giovanni</a> -
+                            <a href="http://www.comune.reggio-calabria.it/" target="_blank">Reggio Calabria</a> -
+                            <a href="https://www.facebook.com/groups/124183136741" target="_blank">Gruppo del Trofeo su Facebook</a></p>
                         </div>
                         <div class="col-sm-4 col-sm-offset-4">
                             <p class="greenText">Contatti</p>
                             <p><a href="mailto:trofeoverduci@gmail.com">trofeoverduci@gmail.com</a></p>
                             <div>
-                                <a href="https://www.facebook.com/groups/124183136741" target="_blank">
+                                <a href="https://www.facebook.com/trofeoverduci/" target="_blank">
                                     <img src="images/facebook.png" width="30" height="30"></a>
                                     <a href="http://www.trofeoverduci.it/feed/" target="_blank">
                                         <img src="images/rss.png" width="30" height="30" style="margin: 0 5px;"></a>
-                                        <a href="https://www.youtube.com/watch?v=Dp-6uWCftbc" target="_blank">
+                                        <a href="https://www.youtube.com/user/trofeoverduci" target="_blank">
                                             <img src="images/play.png"  width="30" height="30">
                                         </a>
                                     </div>

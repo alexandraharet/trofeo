@@ -18,30 +18,47 @@
 					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 					<li data-target="#myCarousel" data-slide-to="1"></li>
 					<li data-target="#myCarousel" data-slide-to="2"></li>
+					<li data-target="#myCarousel" data-slide-to="3"></li>
 				</ol>
 
 				<!-- Wrapper for slides -->
 				<div class="carousel-inner" role="listbox">
 					<div class="item active">
-						<img src="images/hero-img-1.jpg" />
+						<img src="images/hero-img-0.jpg" />
 						<div class="carousel-caption hidden-xs">
-							<h3 class="blackbox">Americana Gara Internazionale - Corsa su strada ad eliminazione</h3>
+							<h3 class="blackbox">Il Trofeo Francesco Verduci &egrave una corsa su strada ad eliminazione a carattere internazionale</h3>
 						</div>
 					</div>
 
 					<div class="item">
 						<img src="images/hero-img-2.jpg">
 						<div class="carousel-caption hidden-xs">
-							<h3 class="blackbox">Similar to the 'Miss and out' cycling competition type, the Verduci Trofeo is an elimination running race where the last runner on every lap is "pulled" from the race.</h3>
+							<h3 class="blackbox">Si svolge dal 2008 in notturna nel centro storico di Motta San Giovanni (Reggio Calabria)</h3>
+						</div>
+					</div>
+
+					<div class="item">
+						<img src="images/hero-img-1.jpg">
+						<div class="carousel-caption hidden-xs">
+							<h3 class="blackbox">Il circuito di gara &egrave di un km circa per un totale di 14 km. Ogni giro vede l'eliminazione di un atleta</h3>
 						</div>
 					</div>
 
 					<div class="item">
 						<img src="images/hero-img-3.jpg">
 						<div class="carousel-caption hidden-xs">
-							<h3 class="blackbox">The race is a nigh event that takes place each year in Motta San Giovanni, Calabria, Italy in August.</h3>
+							<h3 class="blackbox">Francesco Verduci &egrave stato giudice di gara e, prima di morire, ha espresso la volont&agrave di organizzare una gara di questo tipo nel suo paese di origine</h3>
 						</div>
 					</div>
+<!--
+					<div class="item">
+						<img src="images/hero-img-3.jpg">
+						<div class="carousel-caption hidden-xs">
+							<h3 class="blackbox">Alla manifestazione &egrave legato un progetto benefico curato in Africa da Padre Manuel Casillas</h3>
+						</div>
+					</div>
+
+				-->
 				</div>
 
 				<!-- Left and right controls -->
@@ -70,7 +87,7 @@
 									<div class="imgContainer">
 										<img src="images/news1.jpg" class="full-width"/>
 									</div>
-									<p class="titleLatestNews greenText">Al keniota Melly il 9&deg Trofeo Verduci</p>
+									<p class="titleLatestNews greenText"><span class="article-date">8 Ago 2016:</span> Al keniota Melly il 9&deg Trofeo Verduci</p>
 									<p>Secondo Yassine Rachik e terzo Mohamed Abdikadar Seik Ali</p>
 								</div>
 								<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
@@ -78,17 +95,23 @@
 									<div class="imgContainer">
 										<img src="images/news2.jpg" class="full-width" />
 									</div>
-									<p class="titleLatestNews greenText">Locandina 2016</p>
-									<p>The new poster for il 9&deg Trofeo Verduci is now available</p>
+									<p class="titleLatestNews greenText"><span class="article-date">6 Ago 2016:</span> Locandina 2016</p>
+									<p class="article-excerpt">The new poster for il 9&deg Trofeo Verduci is now available</p>
 								</div>
 								<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
 								<div class="col-sm-4 boxLatestNews">
 									<div class="imgContainer">
 										<img src="images/news3.jpg" class="full-width"/>
 									</div>
-									<p class="titleLatestNews greenText">Al via il trofeo "Francesco Verduci"</p>
+									<p class="titleLatestNews greenText"><span class="article-date">6 Ago 2016:</span> Al via il trofeo "Francesco Verduci"</p>
 									<p>La gara di corsa su strada vinta da atleti che oggi sono alle Olimpiadi in Brasile</p>
+
 								</div>
+							</div>
+							<div class="row">
+								<div class="col-xs-12 green" >
+								<div class="text-center"><a href="#" target="_blank"><button type="button" class="btn btn-transparent btn-dark">Altre notizie</button></a></div>
+							</div>
 							</div>
 						</div>
 					</div>
@@ -103,7 +126,8 @@
 								<div class="col-xs-12">
 									<div class="imgContainerVerduci">
 									<img src="images/verduci-round.png" class="verduci"  id="iltrofeo" /></div>
-									<p class="smallerquote" >Il Trofeo di Americana Gara Internazionale viene dedicato a Francesco Verduci, in quanto, poco prima di morire, aveva espresso agli amici della Fidal il desiderio di voler organizzare tale manifestazione a Motta. Dopo la sua scomparsa, grazie a coloro che non hanno dimenticato, &egrave stato possibile realizzare questo suo desiderio.</p>
+									<p class="smallerquote">
+                                        Il Trofeo viene dedicato a Francesco Verduci in quanto, poco prima di morire, aveva espresso agli amici della Federazione Italiana di Atletica Leggera il desiderio di voler organizzare tale manifestazione a Motta San Giovanni, suo paese di origine. Dopo la sua scomparsa, grazie a familiari ed amici &egrave stato possibile realizzare questo suo desiderio.</p>
 									<div class="text-center"><a href="trofeo.php"><button type="button" class="btn btn-transparent">Leggi di pi&ugrave</button></a></div>
 								</div>
 							</div>
@@ -210,7 +234,8 @@
 						<div class="row top-bottom-margin">
 							<div class="col-xs-12">
 								<h1 id="percorso" class="hashLinkPadding">Descrizione della gara</h1>
-								<p>L'Americana &egrave una gara affascinante nella quale i podisti partono tutti insieme e devono gareggiare ad andatura limitata sul percorso stradale cittadino nel centro storico di Motta. Ad ogni giro, nel tratto conclusivo viene "lanciata" una volata e gli atleti devono aumentare l'andatura per evitare l'eliminazione, ad eccezione dell'ultimo giro quando i podisti rimasti in gara disputano un rush finale di 300 metri per aggiudicarsi la vittoria. La gara &egrave riservata ad atleti di grande prestigio, italiani e stranieri, appartenenti alle categorie assoluti e master.</p>
+								<p>Il percorso di gara, visibile nella mappa sottostante, si svolge nel centro storico di Motta San Giovanni. I podisti partono tutti insieme ad andatura limitata. Ad ogni fine giro viene lanciato uno sprint che elimina l'ultimo corridore che taglia il traguardo. Uno ad uno i corridori vengono cos&igrave eliminate, fino ad arrivare all'ultimo giro quando i podisti rimasti in gara disputano un rush finale di 300 metri per aggiudicarsi la vittoria. La gara &egrave riservata ad atleti di grande prestigio, italiani e stranieri, appartenenti alle categorie assoluti e master.</p>
+								<p style="font-weight: bold;">La mappa &egrave interattiva, &egrave possibile utilizzare lo zoom e mostra nel dettaglio il percorso di gara, insieme all'altitudine.</p>
 							</div>
 							<div class="col-md-12 hidden-xs hidden-sm text-center">
 								<iframe src="http://www.mapometer.com/embed/route/4412101?view=roadmap&units=km&notes&graph" scrolling="yes" sandbox="allow-same-origin allow-scripts allow-top-navigation" width="900" height="600" style="border:1px solid #ccc;" class="map"></iframe>
@@ -241,7 +266,7 @@
 								<div class="img">
 									<img src="images/rassegna1.jpg" class="img-responsive"/>
 									<div class="overlay">
-										<a href="https://goo.gl/photos/HrgDjtqh6z7KzqYt6" target="_blank" class="albumtitle">Consulta rassegna stampa 2016</a>
+										<a href="https://goo.gl/photos/HrgDjtqh6z7KzqYt6" target="_blank" class="albumtitle">2016</a>
 									</div>
 								</div>
 							</div>
@@ -250,7 +275,7 @@
 								<div class="img">
 									<img src="images/rassegna2.jpg" class="img-responsive"/>
 									<div class="overlay">
-										<a href="https://goo.gl/photos/sgyMZxTiNik5Nbta8" target="_blank" class="albumtitle">Consulta rassegna stampa 2015</a>
+										<a href="https://goo.gl/photos/sgyMZxTiNik5Nbta8" target="_blank" class="albumtitle">2015</a>
 									</div>
 								</div>
 							</div>
@@ -259,7 +284,7 @@
 								<div class="img">
 									<img src="images/rassegna3.jpg" class="img-responsive"/>
 									<div class="overlay">
-										<a href="https://goo.gl/photos/xqb7e7cTWRGWN1e78" target="_blank" class="albumtitle">Consulta rassegna stampa 2014</a>
+										<a href="https://goo.gl/photos/xqb7e7cTWRGWN1e78" target="_blank" class="albumtitle">2014</a>
 									</div>
 								</div>
 							</div>
@@ -284,8 +309,8 @@
 					<div class="container">
 						<div class="row top-bottom-margin">
 							<div class="col-xs-12">
-								<p class="smallerquote">"Grazie a Padre Manuel e a tutti voi per l'aiuto che ci avete inviato che contribuir&agrave a migliorare le condizioni di vita di un popolo in difficolt&agrave. Saluti e benedizioni in questo tempo speciale d'avvento."</p>
-								<p>Padre Gabriel Uribe</p>
+								<p class="smallerquote">"Vi ringrazio per la vostra amicizia e il vostro grande cuore che aiuta a raccogliere fondi per la mia missione sudafricana. Desidero esprimere la nostra sincera gratitudine per la generosa donazione che avete offerto a noi qui in Africa."</p>
+								<p>P. Manuel Casillas</p>
 								<p style="font-weight: bold;">Malawi, 2015</p>
 								<a href="mission.php"><button type="button" class="btn btn-transparent btn-sm">Leggi di pi&ugrave</button></a>
 							</div>

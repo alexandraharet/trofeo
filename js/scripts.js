@@ -121,6 +121,47 @@ var changePersonNameDisplay = function() {
 
 // end
 
+// show / hide navbar on scroll up / scroll down
+
+var scrollTimeOut = true;
+var lastYPos = 0;
+var yPos = 0;
+var yPosDelta = 5;
+var nav = $('.navbar-fixed-top');
+var navHeight = nav.outerHeight();
+var setNavClass = function() {
+    scrollTimeOut = false;
+    yPos = $(window).scrollTop();
+    if(Math.abs(lastYPos - yPos) >= yPosDelta) {
+        if (yPos > lastYPos && yPos > navHeight){
+            nav.removeClass('show-nav').addClass('hide-nav');
+        } else {
+            nav.removeClass('hide-nav').addClass('show-nav');
+        }
+        if ($(".navbar-fixed-top").css("display") !== "none")
+          if($("#navbar").css("display") == "flex") $("#navbar").css({"display":"none"});
+          if($(".more-menu").hasClass("display-element")) $(".more-menu").removeClass("display-element");
+        lastYPos = yPos;
+    }
+};
+
+
+$(window).scroll(function(e){
+scrollTimeOut = true;
+});
+
+setInterval(function() {
+if (scrollTimeOut) {
+    setNavClass();
+}
+}, 250);
+
+
+// end
+
+
+
+
 // change display of Rassegna Boxes on archivio-rassegna-stampa.php page for xs viewport
 
  var changeRassegnaDisplayOnXs = function() {
@@ -264,7 +305,10 @@ if ($(".boxRassegna").length > 0 ) {
     overlay(".boxRassegna", "0%", "hover");
     changeRassegnaDisplayOnXs();
     }
-if ($("#clasiffications").length > 0 ) addPlaceNumber();
+if ($("#clasiffications").length > 0 ) {
+    addPlaceNumber();
+    $("h4").css({"font-weight": "bold"});
+    }
 if ($('.eventContent').length > 0 ) addTimelineArrows();
 if ($(".youtubeVideo").length > 0 ) loadYoutubeThumbnails();
 });

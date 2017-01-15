@@ -17,7 +17,7 @@
         <div class="container">
           <div class="row">
             <div class="col-xs-12 green bottom90 top90">
-              <h1>Storia del trofeo "Francesco Verduci"</h1>
+              <h1>10 anni di storia</h1>
               <h3>Organizzato dal 2008 per ricordare Francesco Verduci</h3>
               <p>L'evento &egrave stato organizzato per la prima volta nel 2008 per ricordare Francesco Verduci, dirigente Fidal e giudice di gara, prematuramente scomparso nel gennaio 2007. Francesco Verduci aveva espresso agli amici della Fidal il desiderio di voler organizzare una particolare manifestazione sportiva a Motta San Giovanni e, dopo la sua scomparsa, le persone a lui vicine hanno voluto realizzare questo suo desiderio. L'Americana &egrave una gara affascinante nella quale i podisti partono tutti insieme e devono gareggiare ad andatura limitata sul percorso stradale cittadino nel centro storico di Motta. Ad ogni giro, nel tratto conclusivo gli atleti devono aumentare l'andatura per evitare l'eliminazione, ad eccezione dell'ultimo giro quando i podisti rimasti in gara disputano un rush finale di 300 metri per aggiudicarsi la vittoria.</p>
 

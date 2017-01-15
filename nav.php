@@ -18,10 +18,10 @@ echo(
             <ul>
                 <li><a href="trofeo.php">Storia del trofeo</a></li>
                 <li><a href="verduci.php">Francesco Verduci</a></li>
+                <li><a href="albo-d-oro.php">Albo d&#39;oro</a></li>
                 <li><a href="interviste.php">Interviste</a></li>
                 <li><a href="videogallery.php">Videogallery</a></li>
                 <li><a href="mission.php">Un progetto benefico</a></li>
-                <li><a href="albo-d-oro.php">Albo d&#39;oro</a></li>
                 <li><a href="archivio-rassegna-stampa.php">Archivio rassegna stampa</a></li>
             </ul>
         </div>
@@ -43,14 +43,14 @@ echo(
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">
                         <span class="glyphicon glyphicon-plus visible-sm">
                         </span>
-                        <div class="hidden-sm">More info <span class="caret"></span></div></a>
+                        <div class="hidden-sm">Altro<span class="caret"></span></div></a>
                         <ul class="dropdown-menu">
-                            <li><a href="trofeo.php">Storia del trofeo</a></li>
+                            <li><a href="trofeo.php">10 anni di storia</a></li>
                             <li><a href="verduci.php">Francesco Verduci</a></li>
+                            <li><a href="albo-d-oro.php">Albo d&#39;oro</a></li>
                             <li><a href="interviste.php">Interviste</a></li>
                             <li><a href="videogallery.php">Videogallery</a></li>
                             <li><a href="mission.php">Un progetto benefico</a></li>
-                            <li><a href="albo-d-oro.php">Albo d&#39;oro</a></li>
                             <li><a href="archivio-rassegna-stampa.php">Archivio rassegna stampa</a></li>
                         </ul>
                     </li>

@@ -12,12 +12,12 @@
   <?php require_once("nav.php"); ?>
 
   <div class="container-fluid">
-          <div class="row whitebg" style="position: fixed; z-index: 4; width: 100%; padding-bottom: 10px;">
+          <div class="row whitebg">
             <div class="col-xs-12">
               <h1>Albo d'oro</h1>
             </div>
           </div>
-          <div class="row text-center" style="margin-top: 100px;">
+          <div class="row text-center">
             <div class="col-sm-12 hidden-xs">
               <img src="images/silver.png" class="silver trophy"></img>
               <img src="images/gold.png" class="gold trophy"></img>
@@ -33,23 +33,23 @@
             <h4>IX edizione</h4>
             <p>7 Agosto 2016</p>
           </div>
-          <div class="col-xs-12 col-sm-4 vcenter">
+          <div class="col-xs-12 col-sm-4">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Edwin Kiprosgei Melly</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Yassine Rachik</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Mohamed Abdikadar Seik Ali</span></p>
               </div>
             </div>
@@ -63,21 +63,21 @@
           </div>
           <div class="col-xs-12 col-sm-4">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Giuseppe Gerratana</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>William Kibor</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Yuri Floriani</span></p>
               </div>
             </div>
@@ -92,21 +92,21 @@
           </div>
           <div class="col-xs-12 col-sm-4">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>William Kibor</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Giuseppe Gerratana</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Simukera Jean Baptiste</span></p>
               </div>
             </div>
@@ -121,21 +121,21 @@
           </div>
           <div class="col-xs-12 col-sm-4">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Emmanuel Kipsang</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>William Kibor</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Giuseppe Gerratana</span></p>
               </div>
             </div>
@@ -150,21 +150,21 @@
           </div>
           <div class="col-xs-12 col-sm-4">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Kibarus Mercy Jerotich</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Limo Zeddy Jerrop</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Asmerawork Bekele Workeba</span></p>
               </div>
             </div>
@@ -178,21 +178,21 @@
           </div>
           <div class="col-xs-12 col-sm-4">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Sugut</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Costantino</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Tiongik</span></p>
               </div>
             </div>
@@ -206,21 +206,21 @@
           </div>
           <div class="col-xs-12 col-sm-4">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Silvia La Barbera</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Jepkurgat Hellen</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Fatna Maraqui</span></p>
               </div>
             </div>
@@ -234,21 +234,21 @@
           </div>
           <div class="col-xs-12 col-sm-4">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Yuri Floriani</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Kiptanui</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12  vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Mor</span></p>
               </div>
             </div>
@@ -262,21 +262,21 @@
           </div>
           <div class="col-xs-12 col-sm-4">
             <div class="row">
-              <div class="col-xs-12  vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Sief Ali Saidi</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12  vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Yuri Floriani</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Kipkemei Chirchir Eric</span></p>
               </div>
             </div>
@@ -290,21 +290,21 @@
           </div>
           <div class="col-xs-12 col-sm-4">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Rukundo Sylvain</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Laalami Cherkaovi</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12  vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Simukeka Jean Baptiste</span></p>
               </div>
             </div>
@@ -318,21 +318,21 @@
           </div>
           <div class="col-xs-12 col-sm-4">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Kiptanui</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Kimutai</span></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
-              <div class="col-xs-12 vcenter">
+              <div class="col-xs-12 padding-top-40">
                 <p><span>Kiprotich</span></p>
               </div>
             </div>
