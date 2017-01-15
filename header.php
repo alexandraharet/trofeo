@@ -20,8 +20,7 @@ echo(
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.14.2/TweenMax.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.3/ScrollMagic.js"></script>
 <script type="text/javascript" src="http://scrollmagic.io/scrollmagic/minified/plugins/animation.gsap.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/debug.addIndicators.js"></script><!-- Dev only -->
-<script type="text/javascript" src="js/scrollmagic.js"></script><!-- scripts.js, main.js, etc. -->
+<script type="text/javascript" src="js/scrollmagic.js"></script>
 <script type="text/javascript" src="js/scripts.js"></script>
 
 '

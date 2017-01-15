@@ -278,6 +278,7 @@ img.verduci {
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: center;
+	background-position: 30% 50%;
 }
 
 .bg1 {
@@ -286,6 +287,7 @@ img.verduci {
 
 .bg2 {
 	background-image: url('images/padre-manuel.png');
+
 }
 
 @media (min-width: 768px) {
@@ -623,6 +625,27 @@ img.bronze {
 	.more-menu {
 		display: block;
 	}
+	.carousel-inner>.item>img {
+		max-width: none;
+		height: 50vh;
+		position: relative;
+		top: 0;
+		left: -50px;
+	}
+	.hashLinkPadding {
+		padding-bottom: 10px;
+		padding-top: 0;
+	}
+	.top-bottom-padding {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+
+	.top-bottom-margin h1 {
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+
 }
 
 @media (min-width: 769px) {

@@ -23,7 +23,7 @@
 				<!-- Wrapper for slides -->
 				<div class="carousel-inner" role="listbox">
 					<div class="item active">
-						<img src="images/hero-img-1.jpg">
+						<img src="images/hero-img-1.jpg" />
 						<div class="carousel-caption hidden-xs">
 							<h3 class="blackbox">Americana Gara Internazionale - Corsa su strada ad eliminazione</h3>
 						</div>
