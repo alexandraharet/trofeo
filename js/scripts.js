@@ -290,6 +290,13 @@ var loadYoutubeThumbnails = function() {
     });
 }
 
+var addLetterLinksMission = function() {
+    $(".letters p, .letters span").each(function(){
+        if( $(this).attr("id")) $(this).wrap('<a href="docs/letters/' + $(this).attr("id") + '.php">');
+    });
+};
+
+
 if ($('.addScrollSpy').length > 0) scrollSpy();
 if ($('.addScrollSmooth').length > 0) scrollSmooth();
 if ($('.addScrollSmooth2').length > 0) scrollSmooth2();
@@ -301,6 +308,7 @@ if ($(".interviste").length > 0 ) {
     overlay(".interviste", "100%", "hover");
     changePersonNameDisplay();
     }
+if ($(".letters").length > 0 ) addLetterLinksMission();
 if ($(".boxRassegna").length > 0 ) {
     overlay(".boxRassegna", "0%", "hover");
     changeRassegnaDisplayOnXs();

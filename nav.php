@@ -22,6 +22,8 @@ echo(
                 <li><a href="interviste.php">Interviste</a></li>
                 <li><a href="videogallery.php">Videogallery</a></li>
                 <li><a href="mission.php">Un progetto benefico</a></li>
+                <li><a href="stella.php">Stella al Merito Sportivo</a></li>
+                <li><a href="mallamaci.php">Lettera da Paolo Mallamaci</a></li>
                 <li><a href="archivio-rassegna-stampa.php">Archivio rassegna stampa</a></li>
             </ul>
         </div>
@@ -51,6 +53,8 @@ echo(
                             <li><a href="interviste.php">Interviste</a></li>
                             <li><a href="videogallery.php">Videogallery</a></li>
                             <li><a href="mission.php">Un progetto benefico</a></li>
+                            <li><a href="stella.php">Stella al Merito Sportivo</a></li>
+                            <li><a href="mallamaci.php">Lettera da Paolo Mallamaci</a></li>
                             <li><a href="archivio-rassegna-stampa.php">Archivio rassegna stampa</a></li>
                         </ul>
                     </li>

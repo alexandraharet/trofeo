@@ -19,17 +19,19 @@
             <div class="col-xs-12 green bottom90 top90">
               <h1>10 anni di storia</h1>
               <h3>Organizzato dal 2008 per ricordare Francesco Verduci</h3>
-              <p>L'evento &egrave stato organizzato per la prima volta nel 2008 per ricordare Francesco Verduci, dirigente Fidal e giudice di gara, prematuramente scomparso nel gennaio 2007. Francesco Verduci aveva espresso agli amici della Fidal il desiderio di voler organizzare una particolare manifestazione sportiva a Motta San Giovanni e, dopo la sua scomparsa, le persone a lui vicine hanno voluto realizzare questo suo desiderio. L'Americana &egrave una gara affascinante nella quale i podisti partono tutti insieme e devono gareggiare ad andatura limitata sul percorso stradale cittadino nel centro storico di Motta. Ad ogni giro, nel tratto conclusivo gli atleti devono aumentare l'andatura per evitare l'eliminazione, ad eccezione dell'ultimo giro quando i podisti rimasti in gara disputano un rush finale di 300 metri per aggiudicarsi la vittoria.</p>
+              <p>Sono ormai trascorsi pi&ugrave di <strong>30 anni</strong> da quando Francesco Verduci fond&ograve a Motta San Giovanni (RC) il <strong>Gruppo Sportivo Mottese</strong>. Da allora egli diede un grande apporto nel Comitato Regionale FIDAL e nel Gruppo Giudici Gare, contribuendo notevolmente alla crescita del movimento atletico calabrese. Poco prima della sua scomparsa, avvenuta l'<strong>8 gennaio 2007</strong> per un improvviso infarto, espresse la sua volont&agrave di portare a Motta San Giovanni un evento importante e originale di corsa su strada: una gara ad eliminazione denominata "<strong>Americana</strong>".</p>
 
-              <p>La gara &egrave riservata ad atleti di grande prestigio, italiani e stranieri, appartenenti alle categorie assoluti e master. Dal 2010, su volere della famiglia Verduci, &egrave stato istituito il Premio GGG "Francesco Verduci", che anche quest'anno verr&agrave assegnato al giudice di gara che si &egrave maggiormente distinto nell'espletamento dell'importante ruolo. Accanto alla manifestazione sportiva e al ricordo del dirigente Fidal verranno realizzate una serie di iniziative sociali che coinvolgeranno il pubblico presente, oltre alla tradizionale raccolta fondi a favore dell'opera missionaria di Padre Manuel Casillas in Sud Africa.</p>
+              <p>Nasce cos&igrave il Trofeo "Francesco Verduci", organizzato dalla Fidal Calabria e dal comitato locale con il patrocinio di Regione Calabria, Consiglio Regionale della Calabria, Provincia di Reggio Calabria, Citt&agrave di Motta San Giovanni e Coni Calabria. L'evento &egrave stato organizzato per la prima volta nel 2008, compie quindi <strong>dieci anni</strong> nell'estate del 2017.</p>
 
-              <p>Sono ormai trascorsi pi&ugrave di 30 anni da quando Francesco Verduci fond&ograve a Motta San Giovanni (RC) il Gruppo Sportivo Mottese. Da allora egli diede un grande apporto nel Comitato Regionale FIDAL e nel Gruppo Giudici Gare, contribuendo notevolmente alla crescita del movimento atletico calabrese. Poco prima della sua scomparsa, avvenuta l'8 gennaio 2007 per un improvviso infarto, espresse la sua volont&agrave di portare a Motta San Giovanni un evento importante e originale di corsa su strada: una gara ad eliminazione denominata "Americana".</p>
+              <p>La manifestazione podistica &egrave riservata ad atleti di grande prestigio, italiani e stranieri, appartenenti alle <strong>categorie assoluti e master</strong>. Il percorso si svolge all'interno un <strong>circuito cittadino di circa un chilometro</strong>, per una lunghezza complessiva di 14 chilometri, dentro il centro storico di Motta San Giovanni.</p>
 
-              <p>Nasce cos&igrave il Trofeo "Francesco Verduci", organizzato dalla Fidal Calabria, manifestazione podistica a carattere internazionale riservata ad atleti di grande prestigio, italiani e stranieri, appartenenti alle categorie assoluti e master. Il percorso &egrave un circuito cittadino di circa un chilometro, per una lunghezza complessiva di 14 chilometri, dentro il centro storico di Motta San Giovanni.</p>
+              <p>Dal 2010, su volere della famiglia Verduci, &egrave stato istituito il <strong>Premio GGG</strong> "Francesco Verduci" assegnato al giudice di gara che si &egrave maggiormente distinto nell'espletamento dell'importante ruolo. Accanto alla manifestazione sportiva e al ricordo del dirigente Fidal, vengono ogni anno realizzate una serie di <strong>iniziative sociali</strong> che coinvolgono il pubblico presente, oltre alla tradizionale raccolta fondi a favore dell'opera missionaria di <strong>Padre Manuel Casillas</strong> in Sud Africa.</p>
 
-              <p>Alla manifestazione &egrave legato un progetto benefico. Ogni anno, infatti, vengono raccolti dei fondi per le missioni umanitarie in Sud Africa di Padre Manuel Casillas.</p>
-
-              <p>Il "Trofeo Francesco Verduci" &egrave organizzato dalla Fidal Calabria e dal comitato locale con il patrocinio di Regione Calabria, Consiglio regionale della Calabria, Provincia di Reggio Calabria, Citt&agrave di Motta San Giovanni e Coni Calabria.</p>
+                <figure style="display: inline-block; padding: 0px 10px 10px 0; float: left;">
+                  <img src="images/ballati.jpg" style="display: inline-block; float:left;"/>
+                  <figcaption style="text-align: center; font-weight: bold;">Ludovico Nerli Ballati, speaker ufficiale</figcaption>
+                </figure>
+                <p>Lo speaker ufficiale dell'evento &egrave Ludovico Nerli Ballati: speaker professionista, voce delle pi&ugrave importanti manifestazioni podistiche Italiane, come la Maratona di Roma e la Maratona di Firenze.</p>
             </div>
           </div>
         </div>
@@ -117,8 +119,16 @@
             </div>
           </div>
         </div>
-
-
+        <div class="row timelineEvent">
+          <div class="col-sm-6 col-xs-12 green">
+            <div class="eventContent">
+            <h3>La <strong>IX</strong> Edizione</h3>
+            <h5>7 agosto 2016</h5>
+            <p>L'Americana &egrave stata vinta dall keniota Edwin Kiprosgei Melly, seguito Yassine Rachik e Mohamed Abdikadar Seik Ali. Il Premio GGG "Francesco Verduci", &egrave stato assegnato al giudice di gara Nuccia Fallanca.</p>
+          </div>
+        </div>
+          <div class="col-sm-6 col-xs-hidden green"></div>
+        </div>
         </div>
 
       </div>
