@@ -588,9 +588,22 @@ img {
 
 
 
+#mapcontainer {
+    min-width: 200px;
+    width: 100%;
+}
+
 iframe.map {
+    position: relative;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 60vh;
+    width: 100%;
 	border: 1px solid #ccc;
-	}
+}
+
 
 @media screen and (max-width: 768px) {
 
@@ -600,7 +613,6 @@ iframe.map {
 	ul.nav li.dropdown:hover > ul.dropdown-menu {
 		display: block;
 	}
-
 }
 
 @media screen and (max-width: 768px) {
