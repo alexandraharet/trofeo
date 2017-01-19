@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it">
 <head>
 	<title>Trofeo "Francesco Verduci, Motta San Giovanni, Calabria, Italia"</title>
+	<script type="text/javascript" src="//d3rx7epf6y220e.cloudfront.net/js/embed.1_11.js"></script>
 	<?php require_once("header.php"); ?>
 
 </head>
@@ -237,11 +238,12 @@
 								<p>Il percorso di gara, visibile nella mappa sottostante, si svolge nel centro storico di Motta San Giovanni. I podisti partono tutti insieme ad andatura limitata. Ad ogni fine giro viene lanciato uno sprint che elimina l'ultimo corridore che taglia il traguardo. Uno ad uno i corridori vengono cos&igrave eliminate, fino ad arrivare all'ultimo giro quando i podisti rimasti in gara disputano un rush finale di 300 metri per aggiudicarsi la vittoria. La gara &egrave riservata ad atleti di grande prestigio, italiani e stranieri, appartenenti alle categorie assoluti e master.</p>
 								<p style="font-weight: bold;">La mappa &egrave interattiva, &egrave possibile utilizzare lo zoom e mostra nel dettaglio il percorso di gara, insieme all'altitudine.</p>
 							</div>
+							
 							<div class="col-md-12 hidden-xs hidden-sm text-center">
-								<iframe src="http://www.mapometer.com/embed/route/4412101?view=roadmap&units=km&notes&graph" scrolling="yes" sandbox="allow-same-origin allow-scripts allow-top-navigation" width="900" height="600" style="border:1px solid #ccc;" class="map"></iframe>
+								<iframe src="http://www.mapometer.com/embed/route/4412101?view=roadmap&units=km&notes&graph" scrolling="yes" sandbox="allow-same-origin allow-scripts allow-top-navigation" style="border:1px solid #ccc;" class="map"></iframe>
 							</div>
 							<div class="col-xs-12 hidden-sm hidden-md hidden-lg hidden-xl text-center">
-								<iframe src="http://www.mapometer.com/embed/route/4412101?view=roadmap&units=km&notes&graph" scrolling="yes" sandbox="allow-same-origin allow-scripts allow-top-navigation" width="310" height="450" style="border:1px solid #ccc;" class="map"></iframe>
+								<iframe src="http://www.mapometer.com/embed/route/4412101?view=roadmap&units=km&notes&graph" scrolling="yes" sandbox="allow-same-origin allow-scripts allow-top-navigation" style="border:1px solid #ccc;" class="map"></iframe>
 							</div>
 							<div class="hidden-xs col-sm-12 hidden-md hidden-lg hidden-xl text-center">
 								<iframe src="http://www.mapometer.com/embed/route/4412101?view=roadmap&units=km&notes&graph" scrolling="yes" sandbox="allow-same-origin allow-scripts allow-top-navigation" width="550" height="500" style="border:1px solid #ccc;" class="map"></iframe>
