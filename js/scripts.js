@@ -280,8 +280,7 @@ var addPlaceNumber = function() {
     $("#clasiffications > .edition").filter(":odd").addClass("whitebg");
 }
 
-
- {
+var loadYoutubeThumbnails = function() {
     var videos = $(".youtubeVideo");
     videos.each(function() {
         var videoID = $(this).attr("id");

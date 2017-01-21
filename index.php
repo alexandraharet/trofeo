@@ -21,12 +21,13 @@
 					<li data-target="#myCarousel" data-slide-to="2"></li>
 					<li data-target="#myCarousel" data-slide-to="3"></li>
 					<li data-target="#myCarousel" data-slide-to="4"></li>
+					<li data-target="#myCarousel" data-slide-to="5"></li>
 				</ol>
 
 				<!-- Wrapper for slides -->
 				<div class="carousel-inner" role="listbox">
 					<div class="item active">
-						<img src="images/hero-img-0.jpg" />
+						<img src="images/hero-img-0.jpg" class="center-hero" />
 						<div class="carousel-caption hidden-xs">
 							<h3 class="blackbox">Il Trofeo Francesco Verduci &egrave una corsa su strada ad eliminazione a carattere internazionale</h3>
 						</div>
@@ -35,26 +36,33 @@
 					<div class="item">
 						<img src="images/hero-img-2.jpg">
 						<div class="carousel-caption hidden-xs">
-							<h3 class="blackbox">Si svolge dal 2008 in notturna nel centro storico di Motta San Giovanni (Reggio Calabria)</h3>
+							<h3 class="blackbox">Lo speaker ufficiale dell'evento &egrave Ludovico Nerli Ballati, voce della Maratona di Roma e di Firenze.</h3>
 						</div>
 					</div>
 
 					<div class="item">
 						<img src="images/hero-img-1.jpg">
 						<div class="carousel-caption hidden-xs">
-							<h3 class="blackbox">Il circuito di gara &egrave di un km circa per un totale di 14 km. Ogni giro vede l'eliminazione di un atleta</h3>
+							<h3 class="blackbox">Si svolge dal 2008 in notturna nel centro storico di Motta San Giovanni (Reggio Calabria)</h3>
 						</div>
 					</div>
 
 					<div class="item">
 						<img src="images/hero-img-3.jpg">
 						<div class="carousel-caption hidden-xs">
+							<h3 class="blackbox">Il circuito di gara &egrave di un km circa per un totale di 14 km. Ogni giro vede l'eliminazione di un atleta</h3>
+						</div>
+					</div>
+
+					<div class="item">
+						<img src="images/hero-img-5.jpg" class="center-hero" />
+						<div class="carousel-caption hidden-xs">
 							<h3 class="blackbox">Francesco Verduci &egrave stato giudice di gara e, prima di morire, ha espresso la volont&agrave di organizzare una gara di questo tipo nel suo paese di origine</h3>
 						</div>
 					</div>
 
 					<div class="item">
-						<img src="images/hero-img-5.jpg">
+						<img src="images/hero-img-6.jpg" />
 						<div class="carousel-caption hidden-xs">
 							<h3 class="blackbox">Alla manifestazione &egrave legato un progetto benefico curato in Africa da Padre Manuel Casillas</h3>
 						</div>
@@ -113,6 +121,12 @@
 								<div class="col-xs-12 green" >
 								<div class="text-center"><a href="#" target="_blank"><button type="button" class="btn btn-transparent btn-dark">Altre notizie</button></a></div>
 							</div>
+							</div>
+
+							<div class="row">
+								<div class="col-xs-12 col-sm-6 col-sm-offset-3 green">
+									<div class="youtubeVideo" id="Dp-6uWCftbc"></div>
+								</div>
 							</div>
 						</div>
 					</div>

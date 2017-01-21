@@ -1,11 +1,3 @@
-/*
-Theme Name: Trofeo Verduci
-Theme URI: http://www.blog.spoongraphics.co.uk
-Description: WordPress theme for Trofeo Verduci website
-Version: 1
-Author: Aexandra Haret
-Author URI: http://www.alexandraharet.com
-*/
 body {
   margin-top: 55px;
   color: #fff;
@@ -657,6 +649,9 @@ iframe.map {
     position: relative;
     top: 0;
     left: -50px;
+  }
+  .carousel-inner > .item > img.center-hero {
+    left: -50%;
   }
 
   .hashLinkPadding {
