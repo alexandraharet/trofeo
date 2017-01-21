@@ -50,7 +50,7 @@
 					<div class="item">
 						<img src="images/hero-img-3.jpg">
 						<div class="carousel-caption hidden-xs">
-							<h3 class="blackbox">Il circuito di gara &egrave di un km circa per un totale di 14 km. Ogni giro vede l'eliminazione di un atleta</h3>
+							<h3 class="blackbox">Il circuito di gara &egrave di un km circa per un totale di 10 km. Ogni giro vede l'eliminazione di un atleta</h3>
 						</div>
 					</div>
 
@@ -254,7 +254,7 @@
 							</div>
 
 							<div class="col-xs-12 text-center" id="mapcontainer">
-								<iframe src="http://www.mapometer.com/embed/route/4412101?view=roadmap&units=km&notes&graph" scrolling="no" sandbox="allow-same-origin allow-scripts allow-top-navigation" class="map"></iframe>
+								<iframe src="http://www.mapometer.com/embed/route/4467804?view=roadmap&units=km&notes&graph" scrolling="no" sandbox="allow-same-origin allow-scripts allow-top-navigation" class="map"></iframe>
 							</div>
 
 						</div>

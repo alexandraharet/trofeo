@@ -22,7 +22,7 @@
               <img src="images/trofeo-img-1.jpg" class="img-left" />
               <p>Sono ormai trascorsi pi&ugrave di <strong>30 anni</strong> da quando Francesco Verduci fond&ograve a Motta San Giovanni (RC) il <strong>Gruppo Sportivo Mottese</strong>. Da allora egli diede un grande apporto nel Comitato Regionale FIDAL e nel Gruppo Giudici Gare, contribuendo notevolmente alla crescita del movimento atletico calabrese. Poco prima della sua scomparsa, avvenuta l'<strong>8 gennaio 2007</strong> per un improvviso infarto, espresse la sua volont&agrave di portare a Motta San Giovanni un evento importante e originale di corsa su strada: una gara ad eliminazione denominata "<strong>Americana</strong>". Nasce cos&igrave il Trofeo "Francesco Verduci", organizzato dalla Fidal Calabria e dal comitato locale con il patrocinio di Regione Calabria, Consiglio Regionale della Calabria, Provincia di Reggio Calabria, Citt&agrave di Motta San Giovanni e Coni Calabria. L'evento &egrave stato organizzato per la prima volta nel 2008, compie quindi <strong>dieci anni</strong> nell'estate del 2017.</p>
 
-              <img src="images/trofeo-img-2.jpg" class="img-right"/><p>La manifestazione podistica &egrave riservata ad atleti di grande prestigio, italiani e stranieri, appartenenti alle <strong>categorie assoluti e master</strong>. Il percorso si svolge all'interno un <strong>circuito cittadino di circa un chilometro</strong>, per una lunghezza complessiva di 14 chilometri, dentro il centro storico di Motta San Giovanni. Dal 2010, su volere della famiglia Verduci, &egrave stato istituito il <strong>Premio GGG</strong> "Francesco Verduci" assegnato al giudice di gara che si &egrave maggiormente distinto nell'espletamento dell'importante ruolo.</p>
+              <img src="images/trofeo-img-2.jpg" class="img-right"/><p>La manifestazione podistica &egrave riservata ad atleti di grande prestigio, italiani e stranieri, appartenenti alle <strong>categorie assoluti e master</strong>. Il percorso si svolge all'interno un <strong>circuito cittadino di circa un chilometro</strong>, per una lunghezza complessiva di 10 chilometri, dentro il centro storico di Motta San Giovanni. Dal 2010, su volere della famiglia Verduci, &egrave stato istituito il <strong>Premio GGG</strong> "Francesco Verduci" assegnato al giudice di gara che si &egrave maggiormente distinto nell'espletamento dell'importante ruolo.</p>
 
                 <figure style="display: inline-block; float: left;">
                   <img src="images/ballati.jpg" class="img-left"/>
@@ -121,7 +121,7 @@
             <div class="eventContent">
             <h3>La <strong>IX</strong> Edizione</h3>
             <h5>7 agosto 2016</h5>
-            <p>L'Americana &egrave stata vinta dall keniota Edwin Kiprosgei Melly, seguito Yassine Rachik e Mohamed Abdikadar Seik Ali. Il Premio GGG "Francesco Verduci", &egrave stato assegnato al giudice di gara Nuccia Fallanca.</p>
+            <p>L'Americana &egrave stata vinta dal keniota Edwin Kiprosgei Melly, seguito da Yassine Rachik e Mohamed Abdikadar Seik Ali. Il Premio GGG "Francesco Verduci" &egrave stato assegnato al giudice di gara Nuccia Fallanca</p>
           </div>
         </div>
           <div class="col-sm-6 col-xs-hidden green"></div>
