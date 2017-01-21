@@ -20,6 +20,7 @@
 					<li data-target="#myCarousel" data-slide-to="1"></li>
 					<li data-target="#myCarousel" data-slide-to="2"></li>
 					<li data-target="#myCarousel" data-slide-to="3"></li>
+					<li data-target="#myCarousel" data-slide-to="4"></li>
 				</ol>
 
 				<!-- Wrapper for slides -->
@@ -51,15 +52,14 @@
 							<h3 class="blackbox">Francesco Verduci &egrave stato giudice di gara e, prima di morire, ha espresso la volont&agrave di organizzare una gara di questo tipo nel suo paese di origine</h3>
 						</div>
 					</div>
-<!--
+
 					<div class="item">
-						<img src="images/hero-img-3.jpg">
+						<img src="images/hero-img-5.jpg">
 						<div class="carousel-caption hidden-xs">
 							<h3 class="blackbox">Alla manifestazione &egrave legato un progetto benefico curato in Africa da Padre Manuel Casillas</h3>
 						</div>
 					</div>
 
-				-->
 				</div>
 
 				<!-- Left and right controls -->
@@ -242,7 +242,7 @@
 							<div class="col-xs-12 text-center" id="mapcontainer">
 								<iframe src="http://www.mapometer.com/embed/route/4412101?view=roadmap&units=km&notes&graph" scrolling="no" sandbox="allow-same-origin allow-scripts allow-top-navigation" class="map"></iframe>
 							</div>
-							
+
 						</div>
 					</div>
 				</div>

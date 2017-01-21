@@ -25,7 +25,7 @@
                         <div class="col-sm-2"></div>
                         <div class="col-sm-2 col-xs-6 interviste" >
                             <div class="img">
-                                <img src="images/vita.jpg" class="img-round"/>
+                                <img src="images/vita.jpg" />
                                 <div class="overlay hidden-xs">
                                     <a href="interviste.php#vita" class="person noopacity">
                                         <p><strong>Ignazio Vita</strong><br>Presidente Comitato<br>Regionale<br>Calabro Fidal</p></a>
@@ -34,7 +34,7 @@
                             </div>
                             <div class="col-sm-2 col-xs-6 interviste" >
                                 <div class="img">
-                                    <img src="images/tetto.jpg" class="img-round"/>
+                                    <img src="images/tetto.jpg" />
                                     <div class="overlay hidden-xs">
                                         <a href="interviste.php#tetto" class="person">
                                             <p><strong>Giulio Tetto</strong><br>Fiduciario Regionale<br>Gruppo<br>Giudici di Gara</p></a>
@@ -43,7 +43,7 @@
                                 </div>
                                 <div class="col-sm-2 col-xs-6 interviste" >
                                     <div class="img">
-                                        <img src="images/tucci.jpg" class="img-round"/>
+                                        <img src="images/tucci.jpg" />
                                         <div class="overlay hidden-xs">
                                             <a href="interviste.php#tucci" class="person">
                                                 <p><strong>Attilio Tucci</strong><br>Assessore Provinciale<br>allo Sport</p></a>
@@ -52,10 +52,10 @@
                                     </div>
                                     <div class="col-sm-2 col-xs-6 interviste" >
                                         <div class="img">
-                                            <img src="images/famverduci.jpg" class="img-round"/>
+                                            <img src="images/famverduci.jpg" />
                                             <div class="overlay hidden-xs">
                                                 <a href="interviste.php#famverduci" class="person">
-                                                    <p><strong>Paolo Lagan&agrave</strong><br>Sindaco di<br>Motta San Giovanni</p></a>
+                                                    <p><strong>Giovanni Verduci</strong><br>Vice Presidente<br>Ammin. Prov. RC</p></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -67,7 +67,7 @@
                                         <div class="container">
                                             <div class="row bottom90 top90">
                                                 <div class="col-xs-12">
-                                                    <img src="images/star3.png" class="person"/>
+                                                    <img src="images/vita.jpg" class="img-round"/>
                                                     <h1>Ignazio Vita</h1>
                                                     <h4>Presidente Comitato Regionale Calabro Fidal</h4>
 
@@ -94,7 +94,7 @@
                                         <div class="container">
                                             <div class="row bottom90 top90">
                                                 <div class="col-xs-12">
-                                                    <img src="images/star3.png" class="person"/>
+                                                    <img src="images/tetto.jpg" class="img-round" />
                                                     <h1>Giulio Tetto</h1>
                                                     <h4>Fiduciario Regionale Gruppo Giudici di Gara</h4>
 
@@ -114,7 +114,7 @@
                                         <div class="container">
                                             <div class="row bottom90 top90">
                                                 <div class="col-xs-12">
-                                                    <img src="images/star3.png" class="person"/>
+                                                    <img src="images/tucci.jpg" class="img-round" />
                                                     <h1>Attilio Tucci</h1>
                                                     <h4>Assessore Provinciale allo Sport</h4>
 
@@ -134,8 +134,8 @@
                                         <div class="container">
                                             <div class="row top90 bottom90">
                                                 <div class="col-xs-12">
-                                                    <img src="images/star3.png" class="person"/>
-                                                    <h1>Famiglia Verduci</h1>
+                                                    <img src="images/famverduci.jpg" class="img-round" />
+                                                    <h1>Giovanni Verduci e Famiglia</h1>
 
                                                     <p>Un <strong>ringraziamento particolare</strong> va a tutti coloro che, a vario titolo, hanno contribuito alla riuscita di questa iniziativa. Un caloroso grazie a coloro che sono stati i veri motori organizzativi, lavorando su tutti gli aspetti tecnico-logistici e senza i quali sarebbe stato impossibile ottenere ci&ograve che &egrave stato realizzato.</p>
 

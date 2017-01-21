@@ -130,17 +130,19 @@ a {
 	height: auto;
 }
 
-img.person {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 100px;
-}
-
 .interviste img{
 	width: 100%;
 	height: auto;
 	@include border-radius(100%);
+}
+
+.img-round {
+    @include border-radius(100%);
+	display: block;
+	margin: 0 auto;
+	width: 200px;
+	height: auto;
+	max-width: 100%;
 }
 
 .stripe {
