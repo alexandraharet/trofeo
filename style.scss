@@ -545,6 +545,20 @@ img {
 	}
 }
 
+.img-left {
+	display: inline-block;
+	float:left;
+	max-width: 50vh;
+	height: auto;
+	padding-right: 20px;
+	}
+
+.img-right {
+	@extend .img-left;
+	float: right;
+	padding-right: 0;
+	padding-left: 20px;
+}
 
 .youtubeVideo {
 	position: relative;
