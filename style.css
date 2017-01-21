@@ -699,6 +699,14 @@ iframe.map {
     padding-top: 0px;
   }
 }
+#clasiffications img {
+  display: inline-block;
+  width: 30px;
+  max-width: 100%;
+  height: auto;
+  margin-left: 10px;
+}
+
 #back-top {
   position: fixed;
   bottom: 20px;

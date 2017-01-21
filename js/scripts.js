@@ -272,7 +272,7 @@ $("a.dropdown-toggle").toggleClass("hide-element");
 
 var addPlaceNumber = function() {
     for(var i=1; i<=3; i++) {
-        $("#clasiffications > .edition div:nth-child(" + (i + 1) + ")").find("p").find("span").each(function() {
+        $("#clasiffications > .edition div:nth-child(" + (i + 1) + ")").find("p").find(".winnerplace").each(function() {
             $(this).before('<span>' + i + '. </span>');
         });
     }
@@ -280,7 +280,8 @@ var addPlaceNumber = function() {
     $("#clasiffications > .edition").filter(":odd").addClass("whitebg");
 }
 
-var loadYoutubeThumbnails = function() {
+
+ {
     var videos = $(".youtubeVideo");
     videos.each(function() {
         var videoID = $(this).attr("id");

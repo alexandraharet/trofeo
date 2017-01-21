@@ -36,21 +36,21 @@
           <div class="col-xs-12 col-sm-4">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Edwin Kiprosgei Melly</span></p>
+                <p><span class="winnerplace"><a href="https://www.iaaf.org/athletes/kenya/edwin-kipkosgei-melly-280598" target="_blank">Edwin Kipkosgei Melly</a></span><img src="images/kenya.png" title="Kenya"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Yassine Rachik</span></p>
+                <p><span class="winnerplace"><a href="https://it.wikipedia.org/wiki/Yassine_Rachik" target="_blank">Yassine Rachik</a></span><img src="images/italy.png" title="Italia"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Mohamed Abdikadar Seik Ali</span></p>
+                <p><span class="winnerplace"><a href="https://it.wikipedia.org/wiki/Mohad_Abdikadar_Sheik_Ali" target="_blank">M. Abdikadar Seik Ali</a></span><img src="images/italy.png" title="Italia"/></p>
               </div>
             </div>
           </div>
@@ -64,21 +64,21 @@
           <div class="col-xs-12 col-sm-4">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Giuseppe Gerratana</span></p>
+                <p><span class="winnerplace"><a href="https://it.wikipedia.org/wiki/Giuseppe_Gerratana" target="_blank">Giuseppe Gerratana</a></span><img src="images/italy.png" title="Italia"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>William Kibor</span></p>
+                <p><span class="winnerplace"><a href="http://www.all-athletics.com/node/338560" target="_blank">William Kibor</a></span><img src="images/kenya.png" title="Kenya"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Yuri Floriani</span></p>
+                <p><span class="winnerplace"><a href="https://it.wikipedia.org/wiki/Yuri_Floriani" target="_blank">Yuri Floriani</a></span><img src="images/italy.png" title="Italia"/></p>
               </div>
             </div>
           </div>
@@ -93,21 +93,21 @@
           <div class="col-xs-12 col-sm-4">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>William Kibor</span></p>
+                <p><span class="winnerplace"><a href="http://www.all-athletics.com/node/338560" target="_blank">William Kibor</a></span><img src="images/kenya.png" title="Kenya"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Giuseppe Gerratana</span></p>
+                <p><span class="winnerplace"><a href="https://it.wikipedia.org/wiki/Giuseppe_Gerratana" target="_blank">Giuseppe Gerratana</a></span><img src="images/italy.png" title="Italia"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Simukera Jean Baptiste</span></p>
+                <p><span class="winnerplace">Simukera Jean Baptiste</span><img src="images/rwanda.png" title="Ruanda"/></p>
               </div>
             </div>
           </div>
@@ -122,21 +122,21 @@
           <div class="col-xs-12 col-sm-4">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Emmanuel Kipsang</span></p>
+                <p><span class="winnerplace"><a href="https://en.wikipedia.org/wiki/Emmanuel_Kipsang" target="_blank">Emmanuel Kipsang</a></span><img src="images/kenya.png" title="Kenya"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>William Kibor</span></p>
+                <p><span class="winnerplace"><a href="http://www.all-athletics.com/node/338560" target="_blank">William Kibor</a></span><img src="images/kenya.png" title="Kenya"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Giuseppe Gerratana</span></p>
+                <p><span class="winnerplace"><a href="https://it.wikipedia.org/wiki/Giuseppe_Gerratana" target="_blank">Giuseppe Gerratana</a></span><img src="images/italy.png" title="Italia"/></p>
               </div>
             </div>
           </div>
@@ -151,21 +151,21 @@
           <div class="col-xs-12 col-sm-4">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Kibarus Mercy Jerotich</span></p>
+                <p><span class="winnerplace"><a href="http://www.all-athletics.com/node/135447" target="_blank">Kibarus Mercy Jerotich</a></span><img src="images/kenya.png" title="Kenya"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Limo Zeddy Jerrop</span></p>
+                <p><span class="winnerplace"><a href="https://www.iaaf.org/athletes/kenya/zeddy-jerop-limo-305930" target="_blank">Limo Zeddy Jerop</a></span><img src="images/kenya.png" title="Kenya"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Asmerawork Bekele Workeba</span></p>
+                <p><span class="winnerplace">A. Bekele Workeba</span><img src="images/ethiopia.png" title="Etiopia"/></p>
               </div>
             </div>
           </div>
@@ -179,21 +179,21 @@
           <div class="col-xs-12 col-sm-4">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Sugut</span></p>
+                <p><span class="winnerplace"><a href="http://www.fidal.it/atleta/Paul-Kipchumba-Sugut/fa2RkpOgaGw%3D" target="_blank">Sugut Paul Kipchumba</a></span><img src="images/kenya.png" title="Kenya"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Costantino</span></p>
+                <p><span class="winnerplace"><a href="http://www.fidal.it/atleta/Consolato-Costantino/hqiRk5mlbGM%3D" target="_blank">Consolato Costantino</a></span><img src="images/italy.png" title="Italia"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Tiongik</span></p>
+                <p><span class="winnerplace"><a href="https://www.iaaf.org/athletes/kenya/paul-tiongik-286692" target="_blank">Paul Tiongik</a></span><img src="images/kenya.png" title="Kenya"/></p>
               </div>
             </div>
           </div>
@@ -207,21 +207,21 @@
           <div class="col-xs-12 col-sm-4">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Silvia La Barbera</span></p>
+                <p><span class="winnerplace"><a href="https://it.wikipedia.org/wiki/Silvia_La_Barbera" target="_blank">Silvia La Barbera</a></span><img src="images/italy.png" title="Italia"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Jepkurgat Hellen</span></p>
+                <p><span class="winnerplace"><a href="https://www.iaaf.org/athletes/kenya/hellen-jepkurgat-276747" target="_blank">Jepkurgat Hellen</a></span><img src="images/kenya.png" title="Kenya"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Fatna Maraqui</span></p>
+                <p><span class="winnerplace">Fatna Maraqui</span><img src="images/morocco.png" title="Marocco"/></p>
               </div>
             </div>
           </div>
@@ -235,21 +235,21 @@
           <div class="col-xs-12 col-sm-4">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Yuri Floriani</span></p>
+                <p><span class="winnerplace"><a href="https://it.wikipedia.org/wiki/Yuri_Floriani" target="_blank">Yuri Floriani</a></span><img src="images/italy.png" title="Italia"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Kiptanui</span></p>
+                <p><span class="winnerplace">Kiptanui</span><img src="images/kenya.png" title="Kenya"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Mor</span></p>
+                <p><span class="winnerplace"><a href="https://it.wikipedia.org/wiki/Mor_Seck" target="_blank">Mor Seck</a></span><img src="images/senegal.png" title="Senegal"/></p>
               </div>
             </div>
           </div>
@@ -263,21 +263,21 @@
           <div class="col-xs-12 col-sm-4">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Sief Ali Saidi</span></p>
+                <p><span class="winnerplace"><a href="https://it.wikipedia.org/wiki/Ali_Sa%C3%AFdi-Sief" target="_blank">Ali Sa&iuml;di-Sief</a></span><img src="images/algeria.png" title="Algeria"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Yuri Floriani</span></p>
+                <p><span class="winnerplace"><a href="https://it.wikipedia.org/wiki/Yuri_Floriani" target="_blank">Yuri Floriani</a></span><img src="images/italy.png" title="Italia"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Kipkemei Chirchir Eric</span></p>
+                <p><span class="winnerplace"><a href="https://www.iaaf.org/athletes/kenya/eric-kipkemei-chirchir-199576" target="_blank">Kipkemei Chirchir Eric</a></span><img src="images/kenya.png" title="Kenya"/></p>
               </div>
             </div>
           </div>
@@ -291,21 +291,21 @@
           <div class="col-xs-12 col-sm-4">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Rukundo Sylvain</span></p>
+                <p><span class="winnerplace"><a href="https://www.iaaf.org/athletes/rwanda/sylvain-rukundo-223718" target="_blank">Rukundo Sylvain</a></span><img src="images/rwanda.png" title="Ruanda"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Laalami Cherkaovi</span></p>
+                <p><span class="winnerplace"><a href="https://www.iaaf.org/athletes/morocco/laalami-cherkaoui-247171" target="_blank">Laalami Cherkaoui</a></span><img src="images/morocco.png" title="Marocco"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Simukeka Jean Baptiste</span></p>
+                <p><span class="winnerplace"><a href="https://www.iaaf.org/athletes/rwanda/jean-baptiste-simukeka-180222" target="_blank">Simukeka Jean Baptiste</a></span><img src="images/rwanda.png" title="Ruanda"/></p>
               </div>
             </div>
           </div>
@@ -319,27 +319,33 @@
           <div class="col-xs-12 col-sm-4">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Kiptanui</span></p>
+                <p><span class="winnerplace"><a href="http://www.all-athletics.com/node/10825" target="_blank">Too Edward Kiptanui</a></span><img src="images/kenya.png" title="Kenya"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Kimutai</span></p>
+                <p><span class="winnerplace"><a href="http://www.all-athletics.com/it/node/315817" target="_blank">Josphat Kimutai Koech</a></span><img src="images/kenya.png" title="Kenya"/></p>
               </div>
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
             <div class="row">
               <div class="col-xs-12 padding-top-40">
-                <p><span>Kiprotich</span></p>
+                <p><span class="winnerplace">Edward Too Kiprotich</span><img src="images/kenya.png" title="Kenya"/></p>
               </div>
             </div>
           </div>
         </div>
 
       </div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <p style="text-align: center; margin-top: 20px; font-size: 0.7em; color: #cccccc;">Immagini bandiere da <a href="http://vathanx.deviantart.com/" target="_blank">Vathanx</a></p>
+  </div>
+</div>
 
   <?php require_once("footer.php"); ?>
 
