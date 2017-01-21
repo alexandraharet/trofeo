@@ -23,9 +23,9 @@
 
               <p>Il 2 Agosto 2008 Francesco Verduci ha ricevuto questa onorificenza. Di seguito il contenuto della lettera ufficiale. Il documento originale si pu&ograve <a href="docs/stella-al-merito-sportivo-da-parte-del-coni.pdf" target="_blank">consultare qui</a>.</p>
 
-              <img src="images/stella.png" style="max-width: 300px; padding-bottom: 20px; float: right;"/>
 
-              <p>Consegnare la <strong>Stella al Merito Sportivo</strong> che il Coni riconosce solo ed esclusivamente ai suoi Dirigenti migliori, &egrave sempre un momento di gioia, un giorno di festa perch&eacute vengono attestati i meriti di chi si &egrave dedicato agli altri con spirito di servizio e con il senso del pi&ugrave nobile volontariato.</p>
+
+              <img src="images/stella.png" class="img-left" /><em><p>Consegnare la <strong>Stella al Merito Sportivo</strong> che il Coni riconosce solo ed esclusivamente ai suoi Dirigenti migliori, &egrave sempre un momento di gioia, un giorno di festa perch&eacute vengono attestati i meriti di chi si &egrave dedicato agli altri con spirito di servizio e con il senso del pi&ugrave nobile volontariato.</p>
 
               <p>Oggi, nel consegnare la Stella al Merito Sportivo a Francesco Verduci un velo di tristezza e malinconia ci assale, perch&eacute Ciccio, purtroppo, non &egrave pi&ugrave tra noi. Sarebbe stato bello per Lui ricevere questo premio nell'imminenza del Suo 56&deg Compleanno, per aver dedicato la Sua vita alla Famiglia, al Lavoro e allo Sport, <strong>prima come atleta e successivamente da Dirigente</strong>.</p>
 
@@ -37,9 +37,9 @@
 
               <p>Alla Signora Verduci ai Figli, al Fratello Gianni ed a Ignazio Vita, Presidente della Fidal Regionale, che mi hanno dato l'onore di invitarmi a questa manifestazione, va il pi&ugrave sentito ringraziamento con tanta Stima ed Amicizia.</p>
 
-              <p style="text-align: right;">Motta San Giovanni, 02 Agosto 2008</p>
+              <p style="text-align: right; font-weight: bold;">Motta San Giovanni, 02 Agosto 2008</p>
 
-              <p style="text-align: right;">Dott. Mimmo Pratic&ograve</p>
+              <p style="text-align: right; font-weight: bold;">Dott. Mimmo Pratic&ograve</p></em>
 
             </div>
           </div>
