@@ -675,12 +675,12 @@ iframe.map {
 	}
 	.carousel-inner>.item>img {
 		max-width: none;
-		height: 50vh;
+		height: 30em;
 		position: relative;
 		top: 0;
 		left: -50px;
 		&.center-hero {
-		left: -50%;
+		left: -46vh;
 		}
 	}
 	.hashLinkPadding {
