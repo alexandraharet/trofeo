@@ -247,7 +247,7 @@
 							<div class="col-xs-12">
 								<h1 id="percorso" class="hashLinkPadding">Descrizione della gara</h1>
 								<p>Il percorso di gara, visibile nella mappa sottostante, si svolge nel centro storico di Motta San Giovanni. I podisti partono tutti insieme ad andatura limitata. Ad ogni fine giro viene lanciato uno sprint che elimina l'ultimo corridore che taglia il traguardo. Uno ad uno i corridori vengono cos&igrave eliminate, fino ad arrivare all'ultimo giro quando i podisti rimasti in gara disputano un rush finale di 300 metri per aggiudicarsi la vittoria. La gara &egrave riservata ad atleti di grande prestigio, italiani e stranieri, appartenenti alle categorie assoluti e master.</p>
-								<p style="font-weight: bold; text-align: center;">La mappa &egrave interattiva, &egrave possibile utilizzare lo zoom e mostra nel dettaglio il percorso di gara, insieme all'altitudine.</p>
+								<p style="font-weight: bold; text-align: center;">La mappa &egrave interattiva, &egrave possibile utilizzare lo zoom e mostrare nel dettaglio il percorso di gara, insieme all'altitudine.</p>
 							</div>
 
 							<div class="col-xs-12 text-center" id="mapcontainer">
@@ -263,7 +263,7 @@
 			<div class="row lightgrey">
 				<div class="col-xs-12">
 					<div class="container">
-						<div class="row top-bottom-margin" id="fotogallery">
+						<div class="row top-bottom-margin">
 							<div class="col-xs-12">
 								<h1 id="rassegna" class="hashLinkPadding">Rassegna stampa</h1>
 							</div>
@@ -273,7 +273,7 @@
 								<div class="hidden-lg">&nbsp;</div>
 								<div class="img">
 									<img src="images/rassegna1.jpg" class="img-responsive"/>
-									<div class="overlay">
+									<div class="overlay hidden-xs">
 										<a href="https://goo.gl/photos/HrgDjtqh6z7KzqYt6" target="_blank" class="albumtitle">2016</a>
 									</div>
 								</div>
@@ -282,7 +282,7 @@
 								<div class="hidden-lg">&nbsp;</div>
 								<div class="img">
 									<img src="images/rassegna2.jpg" class="img-responsive"/>
-									<div class="overlay">
+									<div class="overlay hidden-xs">
 										<a href="https://goo.gl/photos/sgyMZxTiNik5Nbta8" target="_blank" class="albumtitle">2015</a>
 									</div>
 								</div>
@@ -291,7 +291,7 @@
 								<div class="hidden-lg">&nbsp;</div>
 								<div class="img">
 									<img src="images/rassegna3.jpg" class="img-responsive"/>
-									<div class="overlay">
+									<div class="overlay hidden-xs">
 										<a href="https://goo.gl/photos/xqb7e7cTWRGWN1e78" target="_blank" class="albumtitle">2014</a>
 									</div>
 								</div>
@@ -300,8 +300,8 @@
 								<div class="hidden-lg">&nbsp;</div>
 								<div class="img">
 									<img src="images/rassegna4.jpg" class="img-responsive"/>
-									<div class="overlay">
-										<a href="archivio-rassegna-stampa.php" class="albumtitle">Consulta l'archivio completo</a>
+									<div class="overlay hidden-xs">
+										<a href="archivio-rassegna-stampa.php" class="albumtitle">Archivio completo</a>
 									</div>
 								</div>
 							</div>
@@ -317,6 +317,7 @@
 					<div class="container">
 						<div class="row top-bottom-margin">
 							<div class="col-xs-12">
+								<h1>Raccolta fondi Missione Umanitaria</h1>
 								<p class="smallerquote">"Vi ringrazio per la vostra amicizia e il vostro grande cuore che aiuta a raccogliere fondi per la mia missione sudafricana. Desidero esprimere la nostra sincera gratitudine per la generosa donazione che avete offerto a noi qui in Africa."</p>
 								<p>P. Manuel Casillas</p>
 								<p style="font-weight: bold;">Malawi, 2015</p>

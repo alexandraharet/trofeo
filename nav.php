@@ -10,6 +10,7 @@ echo(
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
+            <span style="float: right; height: 100%; display: inline-block; color: #333; margin: auto 10px; padding-top: 1em; font-weight: bold;" class="hidden-sm hidden-md hidden-lg">MENU</span>
             <span class="navbar-brand visible-xs-inline-block" id="logo-xs" style="padding: 0 0 0 10px;">
                 <a href="#home"><img src="images/logo.png" class="logo" alt="Trofeo &#34;Francesco Verduci&#34; LOGO"></a>
             </span>

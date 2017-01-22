@@ -16,8 +16,7 @@ echo(
                             <a href="http://www.fidal.it/" target="_blank">Fidal</a> -
                             <a href="http://calabria.fidal.it/" target="_blank">Fidal Calabria</a> -
                             <a href="http://www.comunemottasg.it/" target="_blank">Motta San Giovanni</a> -
-                            <a href="http://www.comune.reggio-calabria.it/" target="_blank">Reggio Calabria</a> -
-                            <a href="https://www.facebook.com/groups/124183136741" target="_blank">Gruppo del Trofeo su Facebook</a></p>
+                            <a href="http://www.comune.reggio-calabria.it/" target="_blank">Reggio Calabria</a>
                         </div>
                         <div class="col-sm-4 col-sm-offset-4">
                             <p class="greenText">Contatti</p>

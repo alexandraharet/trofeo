@@ -17,7 +17,6 @@ var getLastestPosts = function () {
     type: 'GET',
       dataType: 'json',
       success: function(data) {
-        console.log(data);
         var i=0;
         var monthNames = ["Gen", "Feb", "Mar", "Apr", "Mag","Giu", "Lug",	"Ago", "Set", "Ott", "Nov", "Dic"];
         $(".boxLatestNews").each(function(i) {
@@ -209,6 +208,17 @@ if (scrollTimeOut) {
      });
  }
 
+ var changeRassegnaDisplayOnXsHomepage = function() {
+     $(".boxRassegna").each(function() {
+         var url = $(this).find(".img").find("a").attr("href");
+         var title = $(this).find(".img").find("a").html();
+         $(this).find(".img").children().wrapAll('<a href="' + url + '" target="_blank" class="hidden-sm-up">');
+         $(this).children(":first").after('<p style="text-align: center; font-size: 1.5em; color: #7a7;" class="hidden-lg hidden-md hidden-sm"><a href="' + url + '" target="_blank" style="color: #7a7;">' + title + '</a></p>');
+     });
+ }
+
+changeRassegnaDisplayOnXsHomepage();
+
 // end
 
 // change manu layout for xs viewport
@@ -252,59 +262,6 @@ var getYear = function() {
 
 getYear();
 
-/*
-
-var isBig = ($("body").width() > 767);
-    $(window).on("load resize", function() {
-        var isSmall = $("body").width() < 767;
-        var itSwitched = (isBig == isSmall);
-        console.log(itSwitched);
-        if (itSwitched) {
-            $("ul#dropdown-menu").toggleClass("dropdown-menu mobile-nav");
-            $("#navbar-header").toggleClass("hide-element");
-            $("a.dropdown-toggle").toggleClass("hide-element");
-            isBig = !isBig;
-        }
-    });
-
-$(window).on("resize", function() {
-if ($(".navbar-toggle").attr("display") !== "none") {
-$("ul.dropdown-menu").toggleClass("dropdown-menu mobile-nav");
-$("#navbar-header").toggleClass("hide-element");
-$("a.dropdown-toggle").toggleClass("hide-element");
-}
-});
-
-$(window).on("load", function() {
-var isXs = ($(window).width() < 767);
-if (isXs) {
-$("ul.dropdown-menu").toggleClass("dropdown-menu mobile-nav");
-$("#navbar-header").toggleClass("hide-element");
-$("a.dropdown-toggle").toggleClass("hide-element");
-}
-});
-
-if (($(window).width() > 767)) $(window).on("resize", function() {
-if (($(window).width() < 767)) {
-$("ul.dropdown-menu").toggleClass("dropdown-menu mobile-nav");
-$("#navbar-header").toggleClass("hide-element");
-$("a.dropdown-toggle").toggleClass("hide-element");
-}
-});
-
-if (($(window).width() < 767)) $(window).on("resize", function() {
-if (($(window).width() > 767)) {
-$("ul.dropdown-menu").toggleClass("dropdown-menu mobile-nav");
-$("#navbar-header").toggleClass("hide-element");
-$("a.dropdown-toggle").toggleClass("hide-element");
-}
-});
-
-
-// styleMobileMenu($(window).width() < 767);
-
-*/
-// END
 
 var addPlaceNumber = function() {
     for(var i=1; i<=3; i++) {

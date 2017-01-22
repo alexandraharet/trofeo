@@ -1,6 +1,14 @@
 <?php
 
-    $content = file_get_contents('http://www.trofeoverduci.it/feed/');
+//    $opts = array('http'=>array('header' => "User-Agent:MyAgent/1.0\r\n"));
+//    $context = stream_context_create($opts);
+//    $content = file_get_contents('http://www.trofeoverduci.it/feed/', false,$context);
+
+    $curl = curl_init("http://www.trofeoverduci.it/feed/");
+    curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
+    $content = curl_exec($curl);
+    curl_close($curl);
+
     $x = new SimpleXmlElement($content);
     foreach($x->channel->item as $entry) {
         $mycontent = (string) $entry->children("content", true);
