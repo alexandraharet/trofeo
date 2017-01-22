@@ -301,6 +301,12 @@ img.verduci {
     display: table-cell;
     vertical-align: top;
   }
+
+  .is-table-row [class*="col-xs-"] {
+    float: none;
+    display: table-cell;
+    vertical-align: top;
+  }
 }
 .navbar > .container-fluid {
   min-height: 55px;

@@ -21,7 +21,7 @@
                             <h3>Di seguito qualche intervento da parte di autorit&agrave sportive e politiche</h3>
                         </div>
                     </div>
-                    <div class="row top90 bottom90">
+                    <div class="row top90 bottom90 is-table-row">
                         <div class="col-sm-2"></div>
                         <div class="col-sm-2 col-xs-6 interviste" >
                             <div class="img">
