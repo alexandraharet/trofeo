@@ -90,16 +90,22 @@ a:hover {
   height: 100%;
 }
 .boxLatestNews img {
+  width: 100%;
   max-width: 100%;
+  height: auto;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
 }
+.boxLatestNews a {
+  color: #7a7;
+}
 
 .imgContainer {
   overflow: hidden;
   height: auto;
+  max-height: 15vh;
 }
 
 .interviste img {
@@ -315,7 +321,7 @@ ul.navbar li a {
 
 .nav li a:hover {
   text-decoration: none;
-  color: #7a7;
+  color: #7a7 !important;
 }
 
 /* Overlay effect - styling used in JS script */
@@ -706,6 +712,10 @@ iframe.map {
 
   .padding-top-40 {
     padding-top: 0px;
+  }
+
+  .imgContainer {
+    max-height: 30vh;
   }
 }
 #clasiffications img {

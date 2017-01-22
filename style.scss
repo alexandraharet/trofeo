@@ -109,8 +109,13 @@ a {
 	box-shadow: 0 0 0 1px #bbb;
 	height: 100%;
 	img {
+		width: 100%;
 		max-width: 100%;
+		height: auto;
 		@include transition(all, 0.3s);
+	}
+	a {
+		color: $primary-color;
 	}
 }
 
@@ -118,6 +123,7 @@ a {
 .imgContainer {
 	overflow: hidden;
 	height: auto;
+	max-height: 15vh;
 }
 
 .interviste img{
@@ -327,7 +333,7 @@ ul.navbar {
 
 .nav li a:hover {
 	text-decoration: none;
-	color: $primary-color;
+	color: $primary-color !important;
 }
 
 /* Overlay effect - styling used in JS script */
@@ -611,10 +617,6 @@ iframe.map {
 }
 
 
-@media screen and (max-width: 768px) {
-
-}
-
 @media screen and (min-width: 769px) {
 	ul.nav li.dropdown:hover > ul.dropdown-menu {
 		display: block;
@@ -700,6 +702,10 @@ iframe.map {
 
 	.padding-top-40 {
 		padding-top: 0px;
+	}
+
+	.imgContainer {
+		max-height: 30vh;
 	}
 
 }
