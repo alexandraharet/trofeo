@@ -90,66 +90,30 @@
 									<h1 id="notizie" class="hashLinkPadding">Ultime notizie</h1>
 								</div>
 							</div>
-
-							<!--
 							<div class="row is-table-row" id="newsScene">
 								<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
 								<div class="col-sm-4 boxLatestNews">
 									<div class="imgContainer">
-										<img src="images/news1.jpg" class="full-width"/>
-									</div>
-									<p class="titleLatestNews greenText"><span class="article-date">8 Ago 2016:</span> Al keniota Melly il 9&deg Trofeo Verduci</p>
-									<p>Secondo Yassine Rachik e terzo Mohamed Abdikadar Seik Ali</p>
-								</div>
-								<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
-								<div class="col-sm-4 boxLatestNews">
-									<div class="imgContainer">
-										<img src="images/news2.jpg" class="full-width" />
-									</div>
-									<p class="titleLatestNews greenText"><span class="article-date">6 Ago 2016:</span> Locandina 2016</p>
-									<p class="article-excerpt">The new poster for il 9&deg Trofeo Verduci is now available</p>
-								</div>
-								<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
-								<div class="col-sm-4 boxLatestNews">
-									<div class="imgContainer">
-										<img src="images/news3.jpg" class="full-width"/>
-									</div>
-									<p class="titleLatestNews greenText"><span class="article-date">6 Ago 2016:</span> Al via il trofeo "Francesco Verduci"</p>
-									<p>La gara di corsa su strada vinta da atleti che oggi sono alle Olimpiadi in Brasile</p>
-
-								</div>
-							</div> -->
-
-<!-- RSS test here -->
-
-
-							<div class="row is-table-row" id="newsScene">
-								<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
-								<div class="col-sm-4 boxLatestNews">
-									<div class="imgContainer">
-										<img src="images/news1.jpg" />
+										<img />
 									</div>
 									<p class="titleLatestNews greenText"></p>
 								</div>
 								<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
 								<div class="col-sm-4 boxLatestNews">
 									<div class="imgContainer">
-										<img src="images/news2.jpg" />
+										<img />
 									</div>
 									<p class="titleLatestNews greenText"></p>
 								</div>
 								<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
 								<div class="col-sm-4 boxLatestNews">
 									<div class="imgContainer">
-										<img src="images/news3.jpg" />
+										<img />
 									</div>
 									<p class="titleLatestNews greenText"></p>
 
 								</div>
 							</div>
-
-<!-- END -->
-
 							<div class="row">
 								<div class="col-xs-12 green" >
 								<div class="text-center"><a href="#" target="_blank"><button type="button" class="btn btn-transparent btn-dark">Altre notizie</button></a></div>

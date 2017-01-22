@@ -623,6 +623,12 @@ iframe.map {
 	}
 }
 
+@media screen and (max-width: 1000px) {
+	.imgContainer {
+		max-height: 15vh;
+	}
+}
+
 @media screen and (max-width: 768px) {
 	h1 {
 		font-size: 1.3em;
