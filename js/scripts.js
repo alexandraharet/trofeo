@@ -34,6 +34,10 @@ var getLastestPosts = function () {
 
 }
 
+$('.carousel').carousel({
+  interval: 6000
+})
+
 getLastestPosts();
 
 
@@ -279,7 +283,10 @@ var loadYoutubeThumbnails = function() {
         var videoID = $(this).attr("id");
         $(this).prepend('<div class="youtubeThumbnail"><img src="https://i.ytimg.com/vi/' + videoID + '/hqdefault.jpg"><span class="playIcon"><img src="images/YouTube_icon.png" /></span></div>');
         $(".youtubeThumbnail").click(function(){
-            $(this).replaceWith('<iframe src="https://www.youtube.com/embed/' + videoID + '?autoplay=1" frameborder="0" allowfullscreen></iframe>')
+            $(this).replaceWith('<iframe src="https://www.youtube.com/embed/' + videoID + '?autoplay=1&controls=0" frameborder="0" controls=0 allowfullscreen=1></iframe>')
+
+
+
         });
     });
 }

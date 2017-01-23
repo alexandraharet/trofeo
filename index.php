@@ -317,7 +317,7 @@
 					<div class="container">
 						<div class="row top-bottom-margin">
 							<div class="col-xs-12">
-								<h1>Raccolta fondi Missione Umanitaria</h1>
+								<h1>Missione Umanitaria di Padre M. Casillas</h1>
 								<p class="smallerquote">"Vi ringrazio per la vostra amicizia e il vostro grande cuore che aiuta a raccogliere fondi per la mia missione sudafricana. Desidero esprimere la nostra sincera gratitudine per la generosa donazione che avete offerto a noi qui in Africa."</p>
 								<p>P. Manuel Casillas</p>
 								<p style="font-weight: bold;">Malawi, 2015</p>
