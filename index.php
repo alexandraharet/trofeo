@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it">
 <head>
-	<title>Trofeo "Francesco Verduci, Motta San Giovanni, Calabria, Italia"</title>
+	<title>Trofeo "Francesco Verduci, Motta San Giovanni (RC), Italia"</title>
 	<script type="text/javascript" src="//d3rx7epf6y220e.cloudfront.net/js/embed.1_11.js"></script>
 	<?php require_once("header.php"); ?>
 
@@ -36,14 +36,14 @@
 					<div class="item">
 						<img src="images/hero-img-2.jpg">
 						<div class="carousel-caption hidden-xs">
-							<h3 class="blackbox">Lo speaker ufficiale dell'evento &egrave Ludovico Nerli Ballati, voce della Maratona di Roma e di Firenze.</h3>
+							<h3 class="blackbox">Lo speaker ufficiale dell'evento &egrave Lodovico Nerli Ballati, voce della Maratona di Roma e di Firenze.</h3>
 						</div>
 					</div>
 
 					<div class="item">
 						<img src="images/hero-img-1.jpg">
 						<div class="carousel-caption hidden-xs">
-							<h3 class="blackbox">Si svolge dal 2008 in notturna nel centro storico di Motta San Giovanni (Reggio Calabria)</h3>
+							<h3 class="blackbox">Si svolge dal 2008 in notturna nel centro storico di Motta San Giovanni (RC)</h3>
 						</div>
 					</div>
 
@@ -57,7 +57,7 @@
 					<div class="item">
 						<img src="images/hero-img-5.jpg" class="center-hero" />
 						<div class="carousel-caption hidden-xs">
-							<h3 class="blackbox">Francesco Verduci &egrave stato giudice di gara e, prima di morire, ha espresso la volont&agrave di organizzare una gara di questo tipo nel suo paese di origine</h3>
+							<h3 class="blackbox">Francesco Verduci &egrave stato giudice di gara e, prima di morire, ha espresso la volont&agrave di organizzare un'americana nel suo paese di origine</h3>
 						</div>
 					</div>
 
@@ -139,8 +139,8 @@
 									<div class="imgContainerVerduci">
 									<img src="images/verduci-round.png" class="verduci"  id="iltrofeo" /></div>
 									<p class="smallerquote">
-                                        Il Trofeo viene dedicato a Francesco Verduci in quanto, poco prima di morire, aveva espresso agli amici della Federazione Italiana di Atletica Leggera il desiderio di voler organizzare tale manifestazione a Motta San Giovanni, suo paese di origine. Dopo la sua scomparsa, grazie a familiari ed amici &egrave stato possibile realizzare questo suo desiderio.</p>
-									<div class="text-center"><a href="trofeo.php"><button type="button" class="btn btn-transparent">Leggi di pi&ugrave</button></a></div>
+                                        Il Trofeo viene dedicato a Francesco Verduci in quanto, poco prima di morire, aveva espresso agli amici della Federazione Italiana di Atletica Leggera il desiderio di voler organizzare tale manifestazione a Motta San Giovanni, suo paese di origine. Dopo la sua scomparsa, grazie a familiari ed amici &egrave stato possibile realizzare questo suo progetto.</p>
+									<div class="text-center"><a href="storia-del-trofeo.php"><button type="button" class="btn btn-transparent">Leggi di pi&ugrave</button></a></div>
 								</div>
 							</div>
 							<div class="row top-bottom-margin">
@@ -246,7 +246,8 @@
 						<div class="row top-bottom-margin">
 							<div class="col-xs-12">
 								<h1 id="percorso" class="hashLinkPadding">Descrizione della gara</h1>
-								<p>Il percorso di gara, visibile nella mappa sottostante, si svolge nel centro storico di Motta San Giovanni. I podisti partono tutti insieme ad andatura limitata. Ad ogni fine giro viene lanciato uno sprint che elimina l'ultimo corridore che taglia il traguardo. Uno ad uno i corridori vengono cos&igrave eliminate, fino ad arrivare all'ultimo giro quando i podisti rimasti in gara disputano un rush finale di 300 metri per aggiudicarsi la vittoria. La gara &egrave riservata ad atleti di grande prestigio, italiani e stranieri, appartenenti alle categorie assoluti e master.</p>
+								<p>Il percorso di gara, visibile nella mappa sottostante, si svolge nel centro storico di Motta San Giovanni (RC). I podisti partono tutti insieme ad andatura limitata. Ad ogni giro nel tratto conclusivo, viene lanciato uno sprint e gli
+								<p>Il percorso di gara, visibile nella mappa sottostante, si svolge nel centro storico di Motta San Giovanni (RC). I podisti partono tutti insieme ad andatura limitata. Ad ogni giro nel tratto conclusivo, viene lanciato uno sprint e gli atleti devono aumentare l'andatura per evitare l'eliminazione, ad eccezione dell'ultimo giro quando i podisti rimasti in gara disputano un rush finale di circa 300 metri, per aggiudicarsi la vittoria. La gara &egrave riservata ad atleti di grande prestigio, italiani e stranieri, appartenenti alle categorie assoluti e master.</p>
 								<p style="font-weight: bold; text-align: center;">La mappa &egrave interattiva, &egrave possibile utilizzare lo zoom e mostrare nel dettaglio il percorso di gara, insieme all'altitudine.</p>
 							</div>
 
@@ -321,7 +322,7 @@
 								<p class="smallerquote">"Vi ringrazio per la vostra amicizia e il vostro grande cuore che aiuta a raccogliere fondi per la mia missione sudafricana. Desidero esprimere la nostra sincera gratitudine per la generosa donazione che avete offerto a noi qui in Africa."</p>
 								<p>P. Manuel Casillas</p>
 								<p style="font-weight: bold;">Malawi, 2015</p>
-								<a href="mission.php"><button type="button" class="btn btn-transparent btn-sm">Leggi di pi&ugrave</button></a>
+								<a href="missioni-umanitarie.php"><button type="button" class="btn btn-transparent btn-sm">Leggi di pi&ugrave</button></a>
 							</div>
 						</div>
 					</div>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <title>Trofeo "Francesco Verduci" Albo d'oro</title>
+  <title>Francesco Verduci</title>
   <base href="./index.php">
   <?php require_once("header.php"); ?>
 
@@ -29,7 +29,7 @@
 
               <p>Avvi&ograve alla pratica dell'atletica leggera tantissimi giovani del paese, con i quali partecip&ograve a numerose gare provinciali, regionali e nazionali ottenendo ovunque ottimi risultati nelle varie discipline, nonostante la mancanza di ingenti risorse e la limitatezza dei mezzi a disposizione. Organizz&ograve diverse competizioni a Motta, dando lustro al paese e agli stessi ragazzi. Varie furono le edizioni del concorso Esercito Scuola, i campionati regionali giovanili di corsa campestre sugli spettacolari percorsi sterrati di Motta e numerose sono state le sﬁ de di marcia avvenute sul lungomare di Lazzaro.</p>
 
-              <img src="images/verduci-img-3.jpg" class="img-left" /><p>Da ogni manifestazione traeva lo spunto per organizzare una gara di atletica legandola alla circostanza, come ad esempio nell'agosto 1979 quando diede vita alla "Coppa dell'Assunta" che si ripeter&agrave per ben quattordici edizioni ed in seguito inserita quale prova per i Campionati Regionali di Corsa in Montagna. Anche negli ultimi anni in qualit&agrave di dirigente, organizz&ograve nel paese importanti manifestazioni e convegni di studio apprezzati per l'ottima riuscita in tutti gli aspetti organizzativi. Era orgoglioso di far parte del Gruppo Giudice Gara, nel quale operava con seriet&agrave, abnegazione e senso del dovere.</p>
+              <p>Da ogni manifestazione traeva lo spunto per organizzare una gara di atletica legandola alla circostanza, come ad esempio nell'agosto 1979 quando diede vita alla "Coppa dell'Assunta" che si ripeter&agrave per ben quattordici edizioni ed in seguito inserita quale prova per i Campionati Regionali di Corsa in Montagna. Anche negli ultimi anni in qualit&agrave di dirigente, organizz&ograve nel paese importanti manifestazioni e convegni di studio apprezzati per l'ottima riuscita in tutti gli aspetti organizzativi. Era orgoglioso di far parte del Gruppo Giudice Gara, nel quale operava con seriet&agrave, abnegazione e senso del dovere.</p>
 
               <p>Il Trofeo di Americana Gara Internazionale viene dedicato a Francesco Verduci, in quanto, poco prima di morire, aveva espresso agli amici della Fidal il desiderio di voler organizzare tale manifestazione a Motta. Dopo la sua scomparsa, grazie a coloro che non hanno dimenticato, &egrave stato possibile realizzare questo suo desiderio.</p>
             </div>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <title>Trofeo "Francesco Verduci" Stella al Metiro Sportivo</title>
+  <title>Riconoscimenti</title>
   <base href="./index.php">
 
   <?php require_once("header.php"); ?>
@@ -9,12 +9,14 @@
 </head>
 
 <body>
-  <?php require_once("nav.php"); ?>
+  <?php require_once('nav.php');
+  ?>
 
   <div class="container-fluid">
     <div class="row whitebg">
       <div class="col-xs-12">
         <div class="container">
+
           <div class="row">
             <div class="col-xs-12 green bottom90 top90">
               <h1>Stella al Merito Sportivo</h1>
@@ -43,11 +45,23 @@
 
             </div>
           </div>
+
+          <div class="row">
+            <div class="col-xs-12 green bottom90 top90">
+              <h1>Premio GGG Francesco Verduci</h1>
+              <p>Nel 2010 in occasione della III&ordf; Edizione del Trofeo "Francesco Verduci" il Comitato organizzatore della manifestazione, il Comitato Regionale della FIDAL ed il GGG Calabria, hanno voluto istituire il Premio GGG "Francesco Verduci", un riconoscimento che ogni anno viene assegnato ad un giudice di gara calabrese che nel corso della propria attivit&agrave ha dimostrato qualit&agrave tecniche e morali ineccepibili e che ha contribuito allo sviluppo dell'atletica leggera calabrese e nazionale.</p>
+
+              <p>Nell'edizione del 2010 il premio &egrave stato assegnato a Carmelo Ambrogio, ideatore insieme a Francesco dell'Americana. Nel 2011 al giudice di gara Giulio Greve e nel 2012 a Stefania Manto. Nel 2013 il premio &egrave stato attribuito a Paolo Gullì, allievo del Gruppo Sportivo Mottese. Nel 2014 il premio &egrave andato a Davide Pignata, l'anno seguente a Giovanni Manto e nel corso dell'ultima edizione, il premio &egrave stato consegnato a Nuccia Fallanca.</p>
+
+            </div>
+          </div>
         </div>
       </div>
     </div>
   </div>
 
-  <?php require_once("footer.php"); ?>
+  <?php require_once('footer.php');
+  ?>
+
 </body>
 </html>
