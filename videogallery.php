@@ -19,6 +19,49 @@
               <h1>Videogallery</h1>
             </div>
           </div>
+
+          <div class="row">
+            <div class="col-xs-12">
+              <h3>Nona edizione (2016)</h3>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="row">
+                <div class="col-xs-12">
+                  <div class="youtubeVideo" id="wslovUOO5yk"></div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-xs-12 bottom90">
+                  <p>Trofeo Francesco Verduci IX edizione - conferenza stampa di presentazione (servizio di holly reggio)</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="row">
+            <div class="col-xs-12">
+              <h3>Ottava edizione (2015)</h3>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="row">
+                <div class="col-xs-12">
+                  <div class="youtubeVideo" id="Dp-6uWCftbc"></div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-xs-12 bottom90">
+                  <p>8&deg Trofeo "Francesco Verduci" a Motta San Giovanni (servizio di Luigi Palamara)</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
           <div class="row">
             <div class="col-xs-12">
               <h3>Settima edizione (2014)</h3>
@@ -61,7 +104,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-xs-12 col-sm-6">
+            <div class="col-xs-12 col-sm-4">
               <div class="row">
                 <div class="col-xs-12">
                   <div class="youtubeVideo" id="8KD8CR8uqMs"></div>
@@ -73,7 +116,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-xs-12 col-sm-6">
+            <div class="col-xs-12 col-sm-4">
               <div class="row">
                 <div class="col-xs-12">
                   <div class="youtubeVideo" id="jeyMS7BUGzg"></div>
@@ -82,6 +125,18 @@
               <div class="row">
                 <div class="col-xs-12 bottom90">
                   <p>Premiazione Trofeo Francesco Verduci 2014 (servizio di Luigi Palamara)</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+              <div class="row">
+                <div class="col-xs-12">
+                  <div class="youtubeVideo" id="TSc2xeGlF9w"></div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-xs-12 bottom90">
+                  <p>Settima edizione del trofeo Verduci (servizio di Luigi Palamara)</p>
                 </div>
               </div>
             </div>
@@ -128,7 +183,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-xs-12 col-sm-6">
+            <div class="col-xs-12 col-sm-4">
               <div class="row">
                 <div class="col-xs-12">
                   <div class="youtubeVideo" id="P3sbGPPpNGM"></div>
@@ -140,7 +195,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-xs-12 col-sm-6">
+            <div class="col-xs-12 col-sm-4">
               <div class="row">
                 <div class="col-xs-12">
                   <div class="youtubeVideo" id="QaYp1X2jWqg"></div>
@@ -149,6 +204,18 @@
               <div class="row">
                 <div class="col-xs-12 bottom90">
                   <p>Giovanni Verduci, soddisfazione per la sesta edizione del Trofeo Ciccio Verduci (servizio di Luigi Palamara)</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+              <div class="row">
+                <div class="col-xs-12">
+                  <div class="youtubeVideo" id="e8qIbfzzbJM"></div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-xs-12 bottom90">
+                  <p>Trofeo Francesco Verduci - sabato 4 agosto 2012 la conferenza stampa di presentazione (servizio di Luigi Palamara)</p>
                 </div>
               </div>
             </div>
@@ -180,6 +247,85 @@
               <div class="row">
                 <div class="col-xs-12 bottom90">
                   <p>Finale 5 trofeo Francesco Verduci 2012 (servizio di Luigi Palamara)</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+              <div class="row">
+                <div class="col-xs-12">
+                  <div class="youtubeVideo" id="e8qIbfzzbJM"></div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-xs-12 bottom90">
+                  <p>Trofeo Francesco Verduci - sabato 4 agosto 2012 la conferenza stampa di presentazione (servizio di Luigi Palamara)</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+              <div class="row">
+                <div class="col-xs-12">
+                  <div class="youtubeVideo" id="e8qIbfzzbJM"></div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-xs-12 bottom90">
+                  <p>Trofeo Francesco Verduci- sabato 4 agosto 2012 la conferenza stampa di presentazione (servizio di Luigi Palamara)</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <h3>Quarta edizione (2011)</h3>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12 col-sm-6">
+              <div class="row">
+                <div class="col-xs-12">
+                  <div class="youtubeVideo" id="PxGlMN5rpQ0"></div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-xs-12 bottom90">
+                  <p>Trofeo Verduci Motta San Giovanni 31 luglio 2011 (servizio di Luigi Palamara)</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+              <div class="row">
+                <div class="col-xs-12">
+                  <div class="youtubeVideo" id="8M6JfFPwhc4"></div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-xs-12 bottom90">
+                  <p>Conferenza Stampa presentazione quarta edizione Trofeo Francesco Verduci (servizio di Luigi Palamara)</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+              <div class="row">
+                <div class="col-xs-12">
+                  <div class="youtubeVideo" id="lHGYkHRtCbg"></div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-xs-12 bottom90">
+                  <p>Motta San Giovanni - IV Trofeo Francesco Verducie (servizio di Luigi Palamara)</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+              <div class="row">
+                <div class="col-xs-12">
+                  <div class="youtubeVideo" id="iEkRw9JYRNI"></div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-xs-12 bottom90">
+                  <p>Francesco Talarico, presentazione quarta edizione Trofeo Francesco Verduci (servizio di Luigi Palamara)</p>
                 </div>
               </div>
             </div>
@@ -222,7 +368,7 @@
               </div>
               <div class="row">
                 <div class="col-xs-12 bottom90">
-                  <p>TUTTA la gara, le interviste e la premiazione (Servizio di Telereggio) – 35 min circa</p>
+                  <p>TUTTA la gara, le interviste e la premiazione (servizio di Telereggio) – 35 min circa</p>
                 </div>
               </div>
             </div>
@@ -296,7 +442,7 @@
               </div>
               <div class="row">
                 <div class="col-xs-12 bottom90">
-                  <p>Servizio sulla gara e intervista a Giovanni Verduci</p>
+                  <p>servizio sulla gara e intervista a Giovanni Verduci</p>
                 </div>
               </div>
             </div>
