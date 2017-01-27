@@ -8,7 +8,7 @@ $(document).ready(function(){
     }
 
 
-/* RSS test here */
+/* Get latest 3 posts from blog and add to ultime notizie boxes */
 
 var getLastestPosts = function () {
   var title, link;
@@ -40,11 +40,6 @@ $('.carousel').carousel({
 
 getLastestPosts();
 
-
-/*
-var lastestPosts = JSON.parse('<?php echo json_encode($json); ?>');
-    console.log(lastestPosts);
-*/
 /* END */
 
 

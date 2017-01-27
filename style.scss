@@ -698,6 +698,8 @@ iframe.map {
 	}
 
 	.navbar-fixed-top.hide-nav {
+        -webkit-transform: translateY(-100px);
+        transform: translateY(-100px);
 		@include transition(all, 0.2s, ease-in-out);
 	}
 
