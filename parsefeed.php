@@ -13,7 +13,8 @@
     foreach($x->channel->item as $entry) {
         $mycontent = (string) $entry->children("content", true);
         preg_match('/< *img[^>]*src *= *["\']?([^"\']*)/i', $mycontent, $images);
-        $image = "images/newsplaceholder.jpg";
+        $rand = rand(1, 3);
+        $image = "images/placeholder-branded-" . $rand . ".jpg";
         if($images && sizeof($images) > 0) $image = $images[1];
         $json['item'][] = array("title"=>$entry->title,
                                 "link"=>$entry->link,

@@ -30,7 +30,7 @@
           <div class="row">
             <div class="col-xs-12 green bottom90 top90">
 
-              <h1>Lettera da Paolo Mallamaci</h1>
+              <h2>Lettera da Paolo Mallamaci</h2>
 
               <embed src="docs/letteraPaolo.pdf" type='application/pdf' style="width: 100%; height: 80vh"/>
 

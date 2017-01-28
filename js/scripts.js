@@ -23,12 +23,12 @@ var getLastestPosts = function () {
           var postdate = new Date(data.item[i].date[0]);
           $(this).find(".titleLatestNews").html("<span class='article-date'>" + postdate.getDate() + " " + monthNames[postdate.getMonth()] + " " + postdate.getFullYear() + ": </span><span><a href='" + data.item[i].link[0] + "' target='_blank'> " + data.item[i].title[0] + "</a></span>");
           $(this).find("img").attr("src", data.item[i].image);
+          /*if ($(this).find("img").attr("src")==="images/placeholder-branded.jpg") {
+            var color = Math.floor(Math.random()*16777215).toString(16)
+            $(this).find("img").wrap("<div style='background: #" + color + " ; opacity: 0.25; display: block; overflow: hidden;'></div>");
+          }*/
           i++;
         });
-      },
-      error: function(xhr, desc, err) {
-        console.log(xhr);
-        console.log("Details: " + desc + "\nError:" + err);
       }
     });
 
