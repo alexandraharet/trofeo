@@ -246,7 +246,6 @@
 						<div class="row top-bottom-margin">
 							<div class="col-xs-12">
 								<h1 id="percorso" class="hashLinkPadding">Descrizione della gara</h1>
-								<p>Il percorso di gara, visibile nella mappa sottostante, si svolge nel centro storico di Motta San Giovanni (RC). I podisti partono tutti insieme ad andatura limitata. Ad ogni giro nel tratto conclusivo, viene lanciato uno sprint e gli
 								<p>Il percorso di gara, visibile nella mappa sottostante, si svolge nel centro storico di Motta San Giovanni (RC). I podisti partono tutti insieme ad andatura limitata. Ad ogni giro nel tratto conclusivo, viene lanciato uno sprint e gli atleti devono aumentare l'andatura per evitare l'eliminazione, ad eccezione dell'ultimo giro quando i podisti rimasti in gara disputano un rush finale di circa 300 metri, per aggiudicarsi la vittoria. La gara &egrave riservata ad atleti di grande prestigio, italiani e stranieri, appartenenti alle categorie assoluti e master.</p>
 								<p style="font-weight: bold; text-align: center;">La mappa &egrave interattiva, &egrave possibile utilizzare lo zoom e mostrare nel dettaglio il percorso di gara, insieme all'altitudine.</p>
 							</div>
