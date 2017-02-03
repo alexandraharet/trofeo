@@ -1,16 +1,20 @@
 $(document).ready(function(){
-    var scrollSpy = function(){
-        // Add scrollspy to <body>
-        $('body').scrollspy({
-            target: ".navbar",
-            offset: 70
-        }); //works with: 70
-    }
 
+  var scrollSpy = function(){
+      // Add scrollspy to <body>
+      $('body').scrollspy({
+          target: ".navbar",
+          offset: 70
+      }); //works with: 70
+  }
 
 /* Get latest 3 posts from blog and add to ultime notizie boxes */
 
-var getLastestPosts = function () {
+$('.carousel').carousel({
+  interval: 6000
+})
+
+var getLastestPosts = function() {
   var title, link;
   $.ajax({
     url: 'parsefeed.php',
@@ -31,18 +35,14 @@ var getLastestPosts = function () {
         });
       }
     });
-
 }
 
-$('.carousel').carousel({
-  interval: 6000
-})
 
-getLastestPosts();
+
 
 /* END */
 
-
+// TODO - decide where to put this as it's executing on the spot
     $(document).on('click','.navbar-collapse.in',function(e) {
         if( $(e.target).is('a') ) {
             $(this).collapse('hide');
@@ -119,16 +119,7 @@ var addTimelineArrows = function(isLeft) {
     else timelineToCenter();
 }
 
-if ($('.eventContent').length > 0 ) {
-    var wasLeft = ($("body").width() > 767);
-    $(window).on("load resize", function() {
-        var isLeft = $("body").width() < 767;
-        if (wasLeft != isLeft) {
-            addTimelineArrows(isLeft);
-            wasLeft = isLeft;
-        }
-    });
-}
+
 
 /* END */
 
@@ -157,6 +148,7 @@ var changePersonNameDisplay = function() {
 // end
 
 // show / hide navbar on scroll up / scroll down
+var navbarOnMobile = function() {
 
 var scrollTimeOut = true;
 var lastYPos = 0;
@@ -190,6 +182,7 @@ if (scrollTimeOut) {
     setNavClass();
 }
 }, 250);
+}
 
 
 // end
@@ -216,13 +209,11 @@ if (scrollTimeOut) {
      });
  }
 
-changeRassegnaDisplayOnXsHomepage();
-
 // end
 
 // change manu layout for xs viewport
 
-
+var xsMenuLayout = function() {
 $("button#mobnavbutton").click(function() {
     $(".more-menu").toggleClass("display-element");
 });
@@ -250,6 +241,7 @@ $(function() {
     return false;
   });
 });
+}
 
 // end
 
@@ -258,8 +250,6 @@ var getYear = function() {
   var d = new Date();
   $("#currentyear").text(d.getFullYear());
 }
-
-getYear();
 
 
 var addPlaceNumber = function() {
@@ -290,29 +280,53 @@ var addLetterLinksMission = function() {
     $(".letters p, .letters span").each(function(){
         if( $(this).attr("id")) $(this).wrap('<a href="docs/letters/' + $(this).attr("id") + '.php">');
     });
-};
+}
 
+getYear();
+changeRassegnaDisplayOnXsHomepage();
+xsMenuLayout();
+navbarOnMobile();
 
 if ($('.addScrollSpy').length > 0) scrollSpy();
+
 if ($('.addScrollSmooth').length > 0) scrollSmooth();
+
 if ($('.addScrollSmooth2').length > 0) scrollSmooth2();
+
+if($(".boxLatestNews").length > 0) getLastestPosts();
+
 if ($(".circleThumbnail").length > 0 ) {
     overlay(".circleThumbnail", "100%", "hover");
     changeAlbumTitlesOnXs();
     }
+
 if ($(".interviste").length > 0 ) {
     overlay(".interviste", "100%", "hover");
     changePersonNameDisplay();
     }
+
 if ($(".letters").length > 0 ) addLetterLinksMission();
+
 if ($(".boxRassegna").length > 0 ) {
     overlay(".boxRassegna", "0%", "hover");
     changeRassegnaDisplayOnXs();
     }
+
 if ($("#clasiffications").length > 0 ) {
     addPlaceNumber();
     $("h4").css({"font-weight": "bold"});
     }
-if ($('.eventContent').length > 0 ) addTimelineArrows();
+
 if ($(".youtubeVideo").length > 0 ) loadYoutubeThumbnails();
+
+if ($('.eventContent').length > 0 ) {
+    var wasLeft = ($("body").width() > 767);
+    $(window).on("load resize", function() {
+        var isLeft = $("body").width() < 767;
+        if (wasLeft != isLeft) {
+            addTimelineArrows(isLeft);
+            wasLeft = isLeft;
+        }
+    });
+}
 });

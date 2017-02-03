@@ -41,6 +41,17 @@ echo(
                         </div>
                     </div>
                 </div>
+
+                <script type="text/javascript" src="//d3rx7epf6y220e.cloudfront.net/js/embed.1_11.js"></script>
+                <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+                <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+                <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+                <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.14.2/TweenMax.min.js"></script>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js" integrity="sha256-+bwq8Vn1b2Nz1mF35GyYCR3WP1zNBq6AX9P+rIR/vg8=" crossorigin="anonymous"></script>
+                <script type="text/javascript" src="http://scrollmagic.io/scrollmagic/minified/plugins/animation.gsap.min.js"></script>
+                <script type="text/javascript" src="js/scrollmagic.min.js"></script>
+                <script type="text/javascript" src="js/scripts.min.js"></script>
+
 '
 );
 ?>

@@ -2,7 +2,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it">
 <head>
 	<title>Trofeo "Francesco Verduci, Motta San Giovanni (RC), Italia"</title>
-	<script type="text/javascript" src="//d3rx7epf6y220e.cloudfront.net/js/embed.1_11.js"></script>
 	<?php require_once("header.php"); ?>
 
 </head>
