@@ -25,15 +25,16 @@
 
             </div>
           </div>
+          <div class="row">
+            <div class="col-xs-12"><img src="images/gs-mottese-collage.jpg" title="Gruppo Sportivo Mottese" style="max-width: 100%;" /></div>
+
+          </div>
 
 
           <div class="row">
             <div class="col-xs-12 green bottom90 top90">
 
-              <h2>Lettera da Paolo Mallamaci</h2>
-
-              <embed src="docs/letteraPaolo.pdf" type='application/pdf' style="width: 100%; height: 80vh"/>
-
+              <p><a href="docs/letteraPaolo.pdf">Lettera da Paolo Mallamaci</a></p>
 
             </div>
           </div>

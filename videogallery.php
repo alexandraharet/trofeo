@@ -226,7 +226,7 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-xs-12 col-sm-6">
+            <div class="col-xs-12 col-sm-4">
               <div class="row">
                 <div class="col-xs-12">
                   <div class="youtubeVideo" id="sy99xAzOOus"></div>
@@ -238,7 +238,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-xs-12 col-sm-6">
+            <div class="col-xs-12 col-sm-4">
               <div class="row">
                 <div class="col-xs-12">
                   <div class="youtubeVideo" id="1ow5RRwqq0I"></div>
@@ -250,19 +250,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-xs-12 col-sm-6">
-              <div class="row">
-                <div class="col-xs-12">
-                  <div class="youtubeVideo" id="e8qIbfzzbJM"></div>
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-xs-12 bottom90">
-                  <p>Trofeo Francesco Verduci - sabato 4 agosto 2012 la conferenza stampa di presentazione (servizio di Luigi Palamara)</p>
-                </div>
-              </div>
-            </div>
-            <div class="col-xs-12 col-sm-6">
+            <div class="col-xs-12 col-sm-4">
               <div class="row">
                 <div class="col-xs-12">
                   <div class="youtubeVideo" id="e8qIbfzzbJM"></div>
