@@ -55,6 +55,94 @@
 
             </div>
           </div>
+          <div class="row">
+            <div class="col-xs-12 col-sm-4">
+              <figure>
+                <img src="images/2010-Carmelo Ambrogio.jpg" class="img-responsive"/>
+                <figcaption style="text-align: center; font-weight: bold;">2010 - Carmelo Ambrogio</figcaption>
+              </figure>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+              <figure>
+                <img src="images/2011-Giulio Greve.jpg" class="img-responsive"/>
+                <figcaption style="text-align: center; font-weight: bold;">2011 - Giulio Greve</figcaption>
+              </figure>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+              <figure>
+                <img src="images/2012-Stefania Manto.jpg" class="img-responsive"/>
+                <figcaption style="text-align: center; font-weight: bold;">2012 - Stefania Manto (premio ritirato dal padre Giovanni Manto)</figcaption>
+              </figure>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12 col-sm-6">
+              <figure>
+                <img src="images/2013-Paolo Gulli.jpg" class="img-responsive"/>
+                <figcaption style="text-align: center; font-weight: bold;">2013 - Paolo Gull&igrave</figcaption>
+              </figure>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+              <figure>
+                <img src="images/2014-Davide Pignata.jpg" class="img-responsive"/>
+                <figcaption style="text-align: center; font-weight: bold;">2014 - Davide Pignata (premio ritirato da ...)</figcaption>
+              </figure>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12 col-sm-4">
+              <figure>
+                <img src="images/2015-Giovanni Manto.jpg" class="img-responsive"/>
+                <figcaption style="text-align: center; font-weight: bold;">2015 - Giovanni Manto</figcaption>
+              </figure>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+              <figure>
+                <img src="images/2016-Nuccia Fallanca.jpg" class="img-responsive"/>
+                <figcaption style="text-align: center; font-weight: bold;">2016 - Nuccia Fallanca</figcaption>
+              </figure>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+              <figure>
+                <img src="images/10.jpg" class="img-responsive"/>
+                <figcaption style="text-align: center; font-weight: bold;">MISSING CAPTION (10.BMP)</figcaption>
+              </figure>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12 col-sm-6">
+              <figure>
+                <img src="images/10_1.jpg" class="img-responsive"/>
+                <figcaption style="text-align: center; font-weight: bold;">MISSING CAPTION (10_1.BMP)</figcaption>
+              </figure>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+              <figure>
+                <img src="images/12.jpg" class="img-responsive"/>
+                <figcaption style="text-align: center; font-weight: bold;">MISSING CAPTION (12.BMP)</figcaption>
+              </figure>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12 col-sm-4">
+              <figure>
+                <img src="images/13.jpg" class="img-responsive"/>
+                <figcaption style="text-align: center; font-weight: bold;">MISSING CAPTION (13.BMP)</figcaption>
+              </figure>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+              <figure>
+                <img src="images/13_1.jpg" class="img-responsive"/>
+                <figcaption style="text-align: center; font-weight: bold;">MISSING CAPTION (13_1.BMP)</figcaption>
+              </figure>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+              <figure>
+                <img src="images/14.jpg" class="img-responsive"/>
+                <figcaption style="text-align: center; font-weight: bold;">MISSING CAPTION (14.BMP)</figcaption>
+              </figure>
+            </div>
+          </div>
         </div>
       </div>
     </div>
