@@ -34,6 +34,8 @@ a:hover {
 }
 
 .logo {
+  width: auto;
+  height: auto;
   max-height: 100%;
   padding: 0px;
   display: inline-block;
@@ -41,6 +43,10 @@ a:hover {
 
 .carousel-inner {
   overflow: hidden;
+}
+.carousel-inner .item img {
+  width: auto;
+  height: auto;
 }
 
 /* Stripes and boxes */
@@ -211,6 +217,8 @@ img.verduci {
   -ms-border-radius: 100% 100% 100% 100%;
   -o-border-radius: 100% 100% 100% 100%;
   border: 3px solid #fff;
+  width: auto;
+  height: auto;
 }
 
 .imgContainerVerduci {
@@ -675,8 +683,9 @@ iframe.map {
   }
 
   .carousel-inner > .item > img {
-    max-width: none;
     height: 30em;
+    width: auto;
+    max-width: none;
     position: relative;
     top: 0;
     left: -50px;
@@ -798,5 +807,7 @@ iframe.map {
 }
 
 .img-responsive {
+  width: auto;
+  height: auto;
   margin: auto;
 }

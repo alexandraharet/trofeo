@@ -85,7 +85,7 @@
             <div class="col-xs-12 col-sm-6">
               <figure>
                 <img src="images/2014-Davide Pignata.jpg" class="img-responsive"/>
-                <figcaption style="text-align: center; font-weight: bold;">2014 - Davide Pignata (premio ritirato da ...)</figcaption>
+                <figcaption style="text-align: center; font-weight: bold;">2014 - Davide Pignata</figcaption>
               </figure>
             </div>
           </div>
@@ -105,7 +105,7 @@
             <div class="col-xs-12 col-sm-4">
               <figure>
                 <img src="images/10.jpg" class="img-responsive"/>
-                <figcaption style="text-align: center; font-weight: bold;">MISSING CAPTION (10.BMP)</figcaption>
+                <figcaption style="text-align: center; font-weight: bold;">2010 - Premio speciale a Roberta Cogliandro</figcaption>
               </figure>
             </div>
           </div>
@@ -113,13 +113,13 @@
             <div class="col-xs-12 col-sm-6">
               <figure>
                 <img src="images/10_1.jpg" class="img-responsive"/>
-                <figcaption style="text-align: center; font-weight: bold;">MISSING CAPTION (10_1.BMP)</figcaption>
+                <figcaption style="text-align: center; font-weight: bold;">2012 - I cugini Verduci consegnano una targa in ricordo di Francesco nel giorno in cui avrebbe compiuto sessanta anni</figcaption>
               </figure>
             </div>
             <div class="col-xs-12 col-sm-6">
               <figure>
                 <img src="images/12.jpg" class="img-responsive"/>
-                <figcaption style="text-align: center; font-weight: bold;">MISSING CAPTION (12.BMP)</figcaption>
+                <figcaption style="text-align: center; font-weight: bold;">2012 - Premio speciale a Roberta Cogliandro</figcaption>
               </figure>
             </div>
           </div>
@@ -127,19 +127,19 @@
             <div class="col-xs-12 col-sm-4">
               <figure>
                 <img src="images/13.jpg" class="img-responsive"/>
-                <figcaption style="text-align: center; font-weight: bold;">MISSING CAPTION (13.BMP)</figcaption>
+                <figcaption style="text-align: center; font-weight: bold;">2011 - Premio speciale a Roberta Cogliandro</figcaption>
               </figure>
             </div>
             <div class="col-xs-12 col-sm-4">
               <figure>
                 <img src="images/13_1.jpg" class="img-responsive"/>
-                <figcaption style="text-align: center; font-weight: bold;">MISSING CAPTION (13_1.BMP)</figcaption>
+                <figcaption style="text-align: center; font-weight: bold;">2012 - Premio speciale a Cristian Artuso</figcaption>
               </figure>
             </div>
             <div class="col-xs-12 col-sm-4">
               <figure>
                 <img src="images/14.jpg" class="img-responsive"/>
-                <figcaption style="text-align: center; font-weight: bold;">MISSING CAPTION (14.BMP)</figcaption>
+                <figcaption style="text-align: center; font-weight: bold;">Premio alla memoria di Paolo Mallamaci</figcaption>
               </figure>
             </div>
           </div>

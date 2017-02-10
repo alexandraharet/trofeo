@@ -4,7 +4,7 @@
 //    $context = stream_context_create($opts);
 //    $content = file_get_contents('http://www.trofeoverduci.it/feed/', false,$context);
 
-    $curl = curl_init("http://www.trofeoverduci.it/feed/");
+    $curl = curl_init("http://www.trofeoverduci.it/blog/feed/");
     curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
     $content = curl_exec($curl);
     curl_close($curl);
