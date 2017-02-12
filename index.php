@@ -115,7 +115,7 @@
 							</div>
 							<div class="row">
 								<div class="col-xs-12 green" >
-								<div class="text-center"><a href="#" target="_blank"><button type="button" class="btn btn-transparent btn-dark">Altre notizie</button></a></div>
+								<div class="text-center"><a href="http://www.trofeoverduci.it/blog/page/2"><button type="button" class="btn btn-transparent btn-dark">Altre notizie</button></a></div>
 							</div>
 							</div>
 

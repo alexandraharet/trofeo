@@ -26,7 +26,7 @@ var getLastestPosts = function() {
         var monthNames = ["Gen", "Feb", "Mar", "Apr", "Mag","Giu", "Lug",	"Ago", "Set", "Ott", "Nov", "Dic"];
         $(".boxLatestNews").each(function(i) {
           var postdate = new Date(data.item[i].date[0]);
-          $(this).find(".titleLatestNews").html("<span class='article-date'>" + postdate.getDate() + " " + monthNames[postdate.getMonth()] + " " + postdate.getFullYear() + ": </span><span><a href='" + data.item[i].link[0] + "' target='_blank'> " + data.item[i].title[0] + "</a></span>");
+          $(this).find(".titleLatestNews").html("<span class='article-date'>" + postdate.getDate() + " " + monthNames[postdate.getMonth()] + " " + postdate.getFullYear() + ": </span><span><a href='" + data.item[i].link[0] + "> " + data.item[i].title[0] + "</a></span>");
           $(this).find("img").attr("src", data.item[i].image);
           i++;
         });
