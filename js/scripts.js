@@ -287,8 +287,6 @@ if ($('.addScrollSpy').length > 0) scrollSpy();
 
 if ($('.addScrollSmooth').length > 0) scrollSmooth();
 
-if ($('.addScrollSmooth2').length > 0) scrollSmooth2();
-
 if($(".boxLatestNews").length > 0) getLastestPosts();
 
 if ($(".circleThumbnail").length > 0 ) {
