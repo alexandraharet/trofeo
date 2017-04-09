@@ -4,13 +4,13 @@ echo(
 <nav class="navbar navbar-default navbar-fixed-top" id="navbar">
     <div class="container-fluid">
         <div class="navbar-header">
-            <span style="float: right; height: 100%; display: inline-block; color: #333; margin: auto 10px; padding-top: 1em; font-weight: bold;" class="hidden-sm hidden-md hidden-lg">MENU</span>
             <button type="button" class="navbar-toggle" id="mobnavbutton" data-toggle="collapse" data-target="#topnav">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
+            <span style="float: right; height: 100%; display: inline-block; color: #333; margin: auto 10px; padding-top: 1em; font-weight: bold;" class="hidden-sm hidden-md hidden-lg">MENU</span>
 
             <span class="navbar-brand visible-xs-inline-block" id="logo-xs" style="padding: 0 0 0 10px;">
                 <a href="#home"><img src="images/logo.png" class="logo" alt="Trofeo &#34;Francesco Verduci&#34; LOGO"></a>
