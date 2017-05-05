@@ -5,7 +5,9 @@ echo(
 <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-<meta name="robots" content="noindex" />
+<meta name="description" content="Il Trofeo Francesco Verduci è una corsa su strada ad eliminazione a carattere internazionale"/>
+<meta name="keywords" content="Trofeo Verduci, Trofeo Verduci Motta San Giovanni, Trofeo Francesco Verduci, Motta San Giovanni gara Verduci"/>
+
 
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
@@ -24,7 +26,7 @@ echo(
   ga("send", "pageview");
 
 </script>
-  
+
 '
 );
 ?>
