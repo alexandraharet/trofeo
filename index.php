@@ -10,146 +10,158 @@
 
 		<?php require_once("nav.php"); ?>
 
-			<div id="home">
-			</div>
-			<div id="myCarousel" class="carousel slide" data-ride="carousel">
-				<!-- Indicators -->
-				<ol class="carousel-indicators">
-					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-					<li data-target="#myCarousel" data-slide-to="1"></li>
-					<li data-target="#myCarousel" data-slide-to="2"></li>
-					<li data-target="#myCarousel" data-slide-to="3"></li>
-					<li data-target="#myCarousel" data-slide-to="4"></li>
-					<li data-target="#myCarousel" data-slide-to="5"></li>
-				</ol>
+		<div id="home">
+		</div>
+		<div id="myCarousel" class="carousel slide" data-ride="carousel">
+			<!-- Indicators -->
+			<ol class="carousel-indicators">
+				<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+				<li data-target="#myCarousel" data-slide-to="1"></li>
+				<li data-target="#myCarousel" data-slide-to="2"></li>
+				<li data-target="#myCarousel" data-slide-to="3"></li>
+				<li data-target="#myCarousel" data-slide-to="4"></li>
+				<li data-target="#myCarousel" data-slide-to="5"></li>
+			</ol>
 
-				<!-- Wrapper for slides -->
-				<div class="carousel-inner" role="listbox">
-					<div class="item active">
-						<img src="images/hero-img-0.jpg" class="center-hero" />
-						<div class="carousel-caption hidden-xs">
-							<h3 class="blackbox">Il Trofeo Francesco Verduci &egrave una corsa su strada ad eliminazione a carattere internazionale</h3>
-						</div>
+			<!-- Wrapper for slides -->
+			<div class="carousel-inner" role="listbox">
+				<div class="item active">
+					<img src="images/hero-img-0.jpg" class="center-hero" />
+					<div class="carousel-caption hidden-xs">
+						<h3 class="blackbox">Il Trofeo Francesco Verduci &egrave una corsa su strada ad eliminazione a carattere internazionale</h3>
 					</div>
-
-					<div class="item">
-						<img src="images/hero-img-2.jpg">
-						<div class="carousel-caption hidden-xs">
-							<h3 class="blackbox">Lo speaker ufficiale dell'evento &egrave Lodovico Nerli Ballati, voce della Maratona di Roma e di Firenze.</h3>
-						</div>
-					</div>
-
-					<div class="item">
-						<img src="images/hero-img-1.jpg">
-						<div class="carousel-caption hidden-xs">
-							<h3 class="blackbox">Si svolge dal 2008 in notturna nel centro storico di Motta San Giovanni (RC)</h3>
-						</div>
-					</div>
-
-					<div class="item">
-						<img src="images/hero-img-3.jpg">
-						<div class="carousel-caption hidden-xs">
-							<h3 class="blackbox">Il circuito di gara &egrave di un km circa per un totale di 10 km. Ogni giro vede l'eliminazione di un atleta</h3>
-						</div>
-					</div>
-
-					<div class="item">
-						<img src="images/hero-img-5.jpg" class="center-hero" />
-						<div class="carousel-caption hidden-xs">
-							<h3 class="blackbox">Francesco Verduci &egrave stato giudice di gara e, prima di morire, ha espresso la volont&agrave di organizzare un'americana nel suo paese di origine</h3>
-						</div>
-					</div>
-
-					<div class="item">
-						<img src="images/hero-img-6.jpg" />
-						<div class="carousel-caption hidden-xs">
-							<h3 class="blackbox">Alla manifestazione &egrave legato un progetto benefico curato in Africa da Padre Manuel Casillas</h3>
-						</div>
-					</div>
-
 				</div>
 
-				<!-- Left and right controls -->
-				<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-					<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-				</a>
-				<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-					<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-				</a>
+				<div class="item">
+					<img src="images/hero-img-2.jpg">
+					<div class="carousel-caption hidden-xs">
+						<h3 class="blackbox">Lo speaker ufficiale dell'evento &egrave Lodovico Nerli Ballati, voce della Maratona di Roma e di Firenze.</h3>
+					</div>
+				</div>
+
+				<div class="item">
+					<img src="images/hero-img-1.jpg">
+					<div class="carousel-caption hidden-xs">
+						<h3 class="blackbox">Si svolge dal 2008 in notturna nel centro storico di Motta San Giovanni (RC)</h3>
+					</div>
+				</div>
+
+				<div class="item">
+					<img src="images/hero-img-3.jpg">
+					<div class="carousel-caption hidden-xs">
+						<h3 class="blackbox">Il circuito di gara &egrave di un km circa per un totale di 10 km. Ogni giro vede l'eliminazione di un atleta</h3>
+					</div>
+				</div>
+
+				<div class="item">
+					<img src="images/hero-img-5.jpg" class="center-hero" />
+					<div class="carousel-caption hidden-xs">
+						<h3 class="blackbox">Francesco Verduci &egrave stato giudice di gara e, prima di morire, ha espresso la volont&agrave di organizzare un'americana nel suo paese di origine</h3>
+					</div>
+				</div>
+
+				<div class="item">
+					<img src="images/hero-img-6.jpg" />
+					<div class="carousel-caption hidden-xs">
+						<h3 class="blackbox">Alla manifestazione &egrave legato un progetto benefico curato in Africa da Padre Manuel Casillas</h3>
+					</div>
+				</div>
+
 			</div>
 
-			<div class="container-fluid">
-				<div class="row lightgrey">
-					<div class="col-xs-12 top-bottom-margin" style="padding-bottom: 9em;">
-						<div class="container">
-							<div class="row">
-								<div class="col-xs-12 green" >
-									<h1 id="notizie" class="hashLinkPadding">Ultime notizie</h1>
-								</div>
-							</div>
-							<div class="row is-table-row" id="newsScene">
-								<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
-								<div class="col-sm-4 boxLatestNews">
-									<div class="imgContainer">
-										<img />
-									</div>
-									<p class="titleLatestNews greenText"></p>
-								</div>
-								<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
-								<div class="col-sm-4 boxLatestNews">
-									<div class="imgContainer">
-										<img />
-									</div>
-									<p class="titleLatestNews greenText"></p>
-								</div>
-								<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
-								<div class="col-sm-4 boxLatestNews">
-									<div class="imgContainer">
-										<img />
-									</div>
-									<p class="titleLatestNews greenText"></p>
+			<!-- Left and right controls -->
+			<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+				<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+				<span class="sr-only">Previous</span>
+			</a>
+			<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+				<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+				<span class="sr-only">Next</span>
+			</a>
+		</div>
 
-								</div>
+		<div class="container-fluid">
+			<div class="row lightgrey">
+				<div class="col-xs-12 top-bottom-margin" style="padding-bottom: 9em;">
+					<div class="container">
+						<div class="row">
+							<div class="col-xs-12 green" >
+								<h1 id="notizie" class="hashLinkPadding">Ultime notizie</h1>
 							</div>
-							<div class="row">
-								<div class="col-xs-12 green" >
+						</div>
+						<div class="row is-table-row" id="newsScene">
+							<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
+							<div class="col-sm-4 boxLatestNews">
+								<div class="imgContainer">
+									<img />
+								</div>
+								<p class="titleLatestNews greenText"></p>
+							</div>
+							<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
+							<div class="col-sm-4 boxLatestNews">
+								<div class="imgContainer">
+									<img />
+								</div>
+								<p class="titleLatestNews greenText"></p>
+							</div>
+							<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
+							<div class="col-sm-4 boxLatestNews">
+								<div class="imgContainer">
+									<img />
+								</div>
+								<p class="titleLatestNews greenText"></p>
+
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-xs-12 green" >
 								<div class="text-center"><a href="http://www.trofeoverduci.it/blog/page/2"><button type="button" class="btn btn-transparent btn-dark">Altre notizie</button></a></div>
 							</div>
-							</div>
+						</div>
 
-							<div class="row">
-								<div class="col-xs-12 col-sm-6 col-sm-offset-3 green">
-									<div class="youtubeVideo" id="PIyE7n7J_f0"></div>
-								</div>
+						<div class="row">
+							<div class="col-xs-12 col-sm-6 col-sm-offset-3 green">
+								<div class="youtubeVideo" id="PIyE7n7J_f0"></div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
+		</div>
 
-			<div class="container-fluid bg bg1">
-				<div class="row transparentStripe">
-					<div class="col-xs-12">
-						<div class="container">
-							<div class="row top-bottom-margin">
-								<div class="col-xs-12">
-									<div class="imgContainerVerduci">
+		<div class="container-fluid bg bg1">
+			<div class="row transparentStripe">
+				<div class="col-xs-12">
+					<div class="container">
+						<div class="row top-bottom-margin">
+							<div class="col-xs-12">
+								<div class="imgContainerVerduci">
 									<img src="images/verduci-round.png" class="verduci"  id="iltrofeo" /></div>
 									<p class="smallerquote">
-                                        Il Trofeo viene dedicato a Francesco Verduci in quanto, poco prima di morire, aveva espresso agli amici della Federazione Italiana di Atletica Leggera il desiderio di voler organizzare tale manifestazione a Motta San Giovanni, suo paese di origine. Dopo la sua scomparsa, grazie a familiari ed amici &egrave stato possibile realizzare questo suo progetto.</p>
-									<div class="text-center"><a href="storia-del-trofeo.php"><button type="button" class="btn btn-transparent">Leggi di pi&ugrave</button></a></div>
+										Il Trofeo viene dedicato a Francesco Verduci in quanto, poco prima di morire, aveva espresso agli amici della Federazione Italiana di Atletica Leggera il desiderio di voler organizzare tale manifestazione a Motta San Giovanni, suo paese di origine. Dopo la sua scomparsa, grazie a familiari ed amici &egrave stato possibile realizzare questo suo progetto.</p>
+										<div class="text-center"><a href="storia-del-trofeo.php"><button type="button" class="btn btn-transparent">Leggi di pi&ugrave</button></a></div>
+									</div>
 								</div>
-							</div>
-							<div class="row top-bottom-margin">
-								<div class="col-xs-12 text-center">
-									<h1 id="fotogallery" class="hashLinkPadding">Fotogallery</h1>
+								<div class="row top-bottom-margin">
+									<div class="col-xs-12 text-center">
+										<h1 id="fotogallery" class="hashLinkPadding">Fotogallery</h1>
+									</div>
 								</div>
-							</div>
-							<div class="row top-bottom-padding" id="slidedown">
+								<div class="row top-bottom-padding" id="slidedown">
+
 								<div class="col-sm-3 col-xs-4 circleThumbnail" >
-									<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2016</div>
+									<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2017</div>
+										<div class="img">
+											<img src="images/cover-2017.jpg" class="img-thumbnail"/>
+											<div class="overlay hidden-xs">
+												<a href="https://goo.gl/photos/J2Prq2eSTp1x2CVV7" target="_blank" class="albumtitle">2017</a>
+											</div>
+										</div>
+									</a>
+								</div>
+
+							<div class="col-sm-3 col-xs-4 circleThumbnail" >
+								<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2016</div>
 									<div class="img">
 										<img src="images/cover-2016.jpg" class="img-thumbnail"/>
 										<div class="overlay hidden-xs">
@@ -176,7 +188,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-sm-3 col-xs-4 circleThumbnail">
+							<div class="col-sm-2 col-xs-4 circleThumbnail">
 								<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2013</div>
 								<div class="img">
 									<img src="images/cover-2013.jpg" class="img-thumbnail"/>
@@ -271,6 +283,15 @@
 							<div class="col-sm-6 col-md-3 boxRassegna" >
 								<div class="hidden-lg">&nbsp;</div>
 								<div class="img">
+									<img src="images/rassegna5.jpg" class="img-responsive"/>
+									<div class="overlay hidden-xs">
+										<a href="https://goo.gl/photos/ZPKNVKvekFdnwn5HA" target="_blank" class="albumtitle">2017</a>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-6 col-md-3 boxRassegna" >
+								<div class="hidden-lg">&nbsp;</div>
+								<div class="img">
 									<img src="images/rassegna1.jpg" class="img-responsive"/>
 									<div class="overlay hidden-xs">
 										<a href="https://goo.gl/photos/HrgDjtqh6z7KzqYt6" target="_blank" class="albumtitle">2016</a>
@@ -283,15 +304,6 @@
 									<img src="images/rassegna2.jpg" class="img-responsive"/>
 									<div class="overlay hidden-xs">
 										<a href="https://goo.gl/photos/sgyMZxTiNik5Nbta8" target="_blank" class="albumtitle">2015</a>
-									</div>
-								</div>
-							</div>
-							<div class="col-sm-6 col-md-3 boxRassegna">
-								<div class="hidden-lg">&nbsp;</div>
-								<div class="img">
-									<img src="images/rassegna3.jpg" class="img-responsive"/>
-									<div class="overlay hidden-xs">
-										<a href="https://goo.gl/photos/xqb7e7cTWRGWN1e78" target="_blank" class="albumtitle">2014</a>
 									</div>
 								</div>
 							</div>
