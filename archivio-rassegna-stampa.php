@@ -23,6 +23,25 @@
         <div class="container" id="slidedown">
           <div class="row top-bottom-padding" >
 
+              <div class="col-sm-6 col-sm-4 boxRassegna" >
+                <div class="hidden-lg">&nbsp;</div>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <div class="img">
+                      <img src="images/rassegna-2017.png" class="img-responsive border"/>
+                      <div class="overlay hidden-xs">
+                        <a href="https://goo.gl/photos/ZPKNVKvekFdnwn5HA" target="_blank" class="albumtitle">2017</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-12 text-center">
+                    <p>X edizione del Trofeo (2017)</p>
+                  </div>
+                </div>
+              </div>
+
             <div class="col-sm-6 col-sm-4 boxRassegna" >
               <div class="hidden-lg">&nbsp;</div>
               <div class="row">
@@ -60,6 +79,9 @@
                 </div>
               </div>
             </div>
+          </div>
+
+          <div class="row top-bottom-padding">
 
             <div class="col-sm-6 col-sm-4 boxRassegna">
               <div class="hidden-lg">&nbsp;</div>
@@ -79,10 +101,6 @@
                 </div>
               </div>
             </div>
-
-          </div>
-
-          <div class="row top-bottom-padding">
 
             <div class="col-sm-6 col-sm-4 boxRassegna" >
               <div class="hidden-lg">&nbsp;</div>
@@ -121,6 +139,9 @@
             </div>
           </div>
             </div>
+          </div>
+
+          <div class="row top-bottom-padding">
 
             <div class="col-sm-6 col-sm-4 boxRassegna">
               <div class="hidden-lg">&nbsp;</div>
@@ -140,10 +161,6 @@
             </div>
           </div>
             </div>
-
-          </div>
-
-          <div class="row top-bottom-padding">
 
             <div class="col-sm-6 col-sm-4 boxRassegna" >
               <div class="hidden-lg">&nbsp;</div>
