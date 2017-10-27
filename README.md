@@ -11,4 +11,4 @@ JavaScript & jQuery were further used to:
 - add overlays to some boxes & images (see Interviste pages, the top profile pics, as well as rassegna stampa, on click)
 - to dynamically add place numbers on the table of winners (Albo D'Oro page).
 
-Website has not yet been launched but is available online for preview / testing at http://www.alexandraharet.com/trofeo/
+The website is live and available online at http://www.trofeoverduci.it/
