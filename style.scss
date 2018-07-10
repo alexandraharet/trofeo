@@ -393,6 +393,10 @@ a.albumtitle {
 	font-size: 30px;
 	font-weight: 700;
 	line-height: 50px;
+	&.xs {
+		font-size: 15px;
+		line-height: 25px;
+	}
 }
 
 .albumtitle-white {

@@ -149,18 +149,29 @@
 								</div>
 								<div class="row top-bottom-padding" id="slidedown">
 
-								<div class="col-sm-3 col-xs-4 circleThumbnail" >
-									<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2017</div>
-										<div class="img">
-											<img src="images/cover-2017.jpg" class="img-thumbnail"/>
-											<div class="overlay hidden-xs">
-												<a href="https://goo.gl/photos/J2Prq2eSTp1x2CVV7" target="_blank" class="albumtitle">2017</a>
-											</div>
+							<div class="col-sm-4 col-xs-4 circleThumbnail" >
+								<div class="hidden-lg hidden-md hidden-sm albumtitle-white">Convegno giudici 2018</div>
+									<div class="img">
+										<img src="images/cover-convegno-2018.jpg" class="img-thumbnail"/>
+										<div class="overlay hidden-xs">
+											<a href="https://photos.app.goo.gl/w2CIihpRaHBH0mQj1" target="_blank" class="albumtitle xs">2018</a>
 										</div>
-									</a>
-								</div>
+									</div>
+								</a>
+							</div> 
 
-							<div class="col-sm-3 col-xs-4 circleThumbnail" >
+							<div class="col-sm-4 col-xs-4 circleThumbnail" >
+								<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2017</div>
+									<div class="img">
+										<img src="images/cover-2017.jpg" class="img-thumbnail"/>
+										<div class="overlay hidden-xs">
+											<a href="https://goo.gl/photos/J2Prq2eSTp1x2CVV7" target="_blank" class="albumtitle">2017</a>
+										</div>
+									</div>
+								</a>
+							</div>
+
+							<div class="col-sm-4 col-xs-4 circleThumbnail" >
 								<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2016</div>
 									<div class="img">
 										<img src="images/cover-2016.jpg" class="img-thumbnail"/>
@@ -170,6 +181,7 @@
 									</div>
 								</a>
 							</div>
+
 							<div class="col-sm-3 col-xs-4 circleThumbnail" >
 								<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2015</div>
 								<div class="img">
@@ -179,6 +191,7 @@
 									</div>
 								</div>
 							</div>
+
 							<div class="col-sm-3 col-xs-4 circleThumbnail">
 								<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2014</div>
 								<div class="img">
@@ -188,7 +201,8 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-sm-2 col-xs-4 circleThumbnail">
+
+							<div class="col-sm-3 col-xs-4 circleThumbnail">
 								<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2013</div>
 								<div class="img">
 									<img src="images/cover-2013.jpg" class="img-thumbnail"/>
@@ -197,7 +211,8 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-sm-2 col-xs-4 circleThumbnail">
+
+							<div class="col-sm-3 col-xs-4 circleThumbnail">
 								<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2012</div>
 								<div class="img">
 									<img src="images/cover-2012.jpg" class="img-thumbnail"/>
@@ -206,7 +221,8 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-sm-2 col-xs-4 circleThumbnail">
+
+							<div class="col-sm-3 col-xs-4 circleThumbnail">
 								<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2011</div>
 								<div class="img">
 									<img src="images/cover-2011.jpg" class="img-thumbnail"/>
@@ -215,7 +231,8 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-sm-2 col-xs-4 circleThumbnail">
+
+							<div class="col-sm-3 col-xs-4 circleThumbnail">
 								<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2010</div>
 								<div class="img">
 									<img src="images/cover-2010.jpg" class="img-thumbnail"/>
@@ -224,7 +241,8 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-sm-2 col-xs-4 circleThumbnail">
+
+							<div class="col-sm-3 col-xs-4 circleThumbnail">
 								<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2009</div>
 								<div class="img">
 									<img src="images/cover-2009.jpg" class="img-thumbnail"/>
@@ -233,7 +251,8 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-sm-2 col-xs-4 circleThumbnail">
+
+							<div class="col-sm-3 col-xs-4 circleThumbnail">
 								<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2008</div>
 								<div class="img">
 									<img src="images/cover-2008.jpg" class="img-thumbnail"/>
