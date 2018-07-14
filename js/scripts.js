@@ -34,7 +34,7 @@ var getLastestPosts = function() {
               if (imageTag.width() / imageTag.height() > 2) {
                 imageTag.addClass("wide-img");
               }
-          }, 0);
+          }, 500);
         });
       }
     });
