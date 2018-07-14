@@ -393,7 +393,7 @@ a.albumtitle {
 	font-size: 30px;
 	font-weight: 700;
 	line-height: 50px;
-	&.xs {
+	.xs {
 		font-size: 15px;
 		line-height: 25px;
 	}
@@ -635,10 +635,13 @@ iframe.map {
 	border: 1px solid #ccc;
 }
 
-
 @media screen and (min-width: 769px) {
 	ul.nav li.dropdown:hover > ul.dropdown-menu {
 		display: block;
+	}
+
+	.boxRassegna.col-md-6 {
+		margin-bottom: 10px;
 	}
 }
 
