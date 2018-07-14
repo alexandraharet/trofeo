@@ -21,9 +21,28 @@
           </div>
         </div>
         <div class="container" id="slidedown">
-          <div class="row top-bottom-padding" >
+          <div class="top-bottom-padding" >
 
-              <div class="col-sm-6 col-sm-4 boxRassegna" >
+            <div class="col-sm-6 boxRassegna" >
+                <div class="hidden-lg">&nbsp;</div>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <div class="img">
+                      <img src="images/rassegna-2018.jpg" class="img-responsive border"/>
+                      <div class="overlay hidden-xs">
+                        <a href="https://photos.app.goo.gl/XybNhQwrXmcbpzb63" target="_blank" class="albumtitle">2018</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-12 text-center">
+                    <p>XI edizione del Trofeo (2018)</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-sm-6 boxRassegna" >
                 <div class="hidden-lg">&nbsp;</div>
                 <div class="row">
                   <div class="col-xs-12">
@@ -42,7 +61,7 @@
                 </div>
               </div>
 
-            <div class="col-sm-6 col-sm-4 boxRassegna" >
+            <div class="col-sm-3 boxRassegna" >
               <div class="hidden-lg">&nbsp;</div>
               <div class="row">
                 <div class="col-xs-12">
@@ -61,7 +80,7 @@
               </div>
             </div>
 
-            <div class="col-sm-6 col-sm-4 boxRassegna" >
+            <div class="col-sm-3 boxRassegna" >
               <div class="hidden-lg">&nbsp;</div>
               <div class="row">
                 <div class="col-xs-12">
@@ -81,9 +100,9 @@
             </div>
           </div>
 
-          <div class="row top-bottom-padding">
+          <div class="top-bottom-padding">
 
-            <div class="col-sm-6 col-sm-4 boxRassegna">
+            <div class="col-sm-3 boxRassegna">
               <div class="hidden-lg">&nbsp;</div>
               <div class="row">
                 <div class="col-xs-12">
@@ -102,7 +121,7 @@
               </div>
             </div>
 
-            <div class="col-sm-6 col-sm-4 boxRassegna" >
+            <div class="col-sm-3 boxRassegna" >
               <div class="hidden-lg">&nbsp;</div>
               <div class="row">
                 <div class="col-xs-12">
@@ -121,7 +140,7 @@
               </div>
             </div>
 
-            <div class="col-sm-6 col-sm-4 boxRassegna" >
+            <div class="col-sm-3 boxRassegna" >
               <div class="hidden-lg">&nbsp;</div>
               <div class="row">
                 <div class="col-xs-12">
@@ -141,9 +160,9 @@
             </div>
           </div>
 
-          <div class="row top-bottom-padding">
+          <div class="top-bottom-padding">
 
-            <div class="col-sm-6 col-sm-4 boxRassegna">
+            <div class="col-sm-3 boxRassegna">
               <div class="hidden-lg">&nbsp;</div>
               <div class="row">
                 <div class="col-xs-12">
@@ -162,7 +181,7 @@
           </div>
             </div>
 
-            <div class="col-sm-6 col-sm-4 boxRassegna" >
+            <div class="col-sm-3 boxRassegna" >
               <div class="hidden-lg">&nbsp;</div>
               <div class="row">
                 <div class="col-xs-12">
@@ -181,7 +200,7 @@
           </div>
             </div>
 
-            <div class="col-sm-6 col-sm-4 boxRassegna" >
+            <div class="col-sm-3 boxRassegna" >
               <div class="hidden-lg">&nbsp;</div>
               <div class="row text-center">
                 <div class="col-xs-12">
