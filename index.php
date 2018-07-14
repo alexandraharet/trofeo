@@ -149,18 +149,20 @@
 								</div>
 								<div class="row top-bottom-padding" id="slidedown">
 
-							<div class="col-sm-4 col-xs-4 circleThumbnail" >
-								<div class="hidden-lg hidden-md hidden-sm albumtitle-white">Convegno giudici 2018</div>
+							<div class="col-sm-4 col-xs-6 circleThumbnail" >
+								<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2018</div>
 									<div class="img">
-										<img src="images/cover-convegno-2018.jpg" class="img-thumbnail"/>
+										<img src="images/cover-2018.jpg" class="img-thumbnail"/>
 										<div class="overlay hidden-xs">
-											<a href="https://photos.app.goo.gl/w2CIihpRaHBH0mQj1" target="_blank" class="albumtitle xs">2018</a>
+											<a href="https://photos.app.goo.gl/w2CIihpRaHBH0mQj1" target="_blank" class="albumtitle">
+											<p class="hidden-sm">Convegno Giudici</p>
+											2018</a>
 										</div>
 									</div>
 								</a>
 							</div> 
 
-							<div class="col-sm-4 col-xs-4 circleThumbnail" >
+							<div class="col-sm-4 col-xs-6 circleThumbnail" >
 								<div class="hidden-lg hidden-md hidden-sm albumtitle-white">2017</div>
 									<div class="img">
 										<img src="images/cover-2017.jpg" class="img-thumbnail"/>
@@ -299,8 +301,15 @@
 							</div>
 						</div>
 						<div class="row top-bottom-padding" id="slidedown">
-							<div class="col-sm-6 col-md-3 boxRassegna" >
-								<div class="hidden-lg">&nbsp;</div>
+							<div class="col-sm-12 col-md-6 boxRassegna" >
+								<div class="img">
+									<img src="images/rassegna6.jpg" class="img-responsive"/>
+									<div class="overlay hidden-xs">
+										<a href="https://photos.app.goo.gl/XybNhQwrXmcbpzb63" target="_blank" class="albumtitle">2018</a>
+									</div>
+								</div>
+							</div>
+							<div class="col-xs-6 col-sm-3 col-md-6 boxRassegna">
 								<div class="img">
 									<img src="images/rassegna5.jpg" class="img-responsive"/>
 									<div class="overlay hidden-xs">
@@ -308,8 +317,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-3 boxRassegna" >
-								<div class="hidden-lg">&nbsp;</div>
+							<div class="col-xs-6 col-sm-3 col-md-4 boxRassegna">
 								<div class="img">
 									<img src="images/rassegna1.jpg" class="img-responsive"/>
 									<div class="overlay hidden-xs">
@@ -317,8 +325,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-3 boxRassegna" >
-								<div class="hidden-lg">&nbsp;</div>
+							<div class="col-xs-6 col-sm-3 col-md-4 boxRassegna" >
 								<div class="img">
 									<img src="images/rassegna2.jpg" class="img-responsive"/>
 									<div class="overlay hidden-xs">
@@ -326,12 +333,11 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-3 boxRassegna">
-								<div class="hidden-lg">&nbsp;</div>
+							<div class="col-xs-6 col-sm-3 col-md-4 boxRassegna">
 								<div class="img">
 									<img src="images/rassegna4.jpg" class="img-responsive"/>
 									<div class="overlay hidden-xs">
-										<a href="archivio-rassegna-stampa.php" class="albumtitle">Archivio completo</a>
+										<a href="archivio-rassegna-stampa.php" class="albumtitle">Archivio <span class="hidden-xs">completo</span></a>
 									</div>
 								</div>
 							</div>
