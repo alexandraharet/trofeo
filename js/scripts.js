@@ -27,8 +27,14 @@ var getLastestPosts = function() {
         $(".boxLatestNews").each(function(i) {
           var postdate = new Date(data.item[i].date[0]);
           $(this).find(".titleLatestNews").html("<span class='article-date'>" + postdate.getDate() + " " + monthNames[postdate.getMonth()] + " " + postdate.getFullYear() + ": </span><span><a href='" + data.item[i].link[0] + "'> " + data.item[i].title[0] + "</a></span>");
-          $(this).find("img").attr("src", data.item[i].image);
+          var imageTag = $(this).find("img");
+          imageTag.attr("src", data.item[i].image);
           i++;
+          setTimeout(function() {
+              if (imageTag.width() / imageTag.height() > 2) {
+                imageTag.addClass("wide-img");
+              }
+          }, 0);
         });
       }
     });

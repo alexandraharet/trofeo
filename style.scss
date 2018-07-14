@@ -121,6 +121,13 @@ a {
 		max-width: 100%;
 		height: auto;
 		@include transition(all, 0.3s);
+		&.wide-img {
+			width: 200%;
+			max-width: none;
+			height: 100%;
+			position: relative;
+			left: -50%;
+		}
 	}
 	a {
 		color: $primary-color;
